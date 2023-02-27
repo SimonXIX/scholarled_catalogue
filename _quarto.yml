@@ -1,0 +1,32 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "ScholarLed catalogue"
+  author: "Simon Bowie"
+  date: "2023-01-06"
+  chapters:
+    - index.qmd
+    - all_press.nbconvert.ipynb
+    - african_press.nbconvert.ipynb
+    - mattering_press.nbconvert.ipynb
+    - media_press.nbconvert.ipynb
+    - meson_press.nbconvert.ipynb
+    - obp_press.nbconvert.ipynb
+    - punctum_press.nbconvert.ipynb
+  repo-url: https://github.com/SimonXIX/scholarled_catalogue
+  repo-actions: [edit]
+  downloads: [pdf]
+
+comments:
+  hypothesis: true
+
+#bibliography: references.bib
+
+format:
+  html:
+    theme: minty
+    number-sections: false
+  pdf:
+    documentclass: scrreprt

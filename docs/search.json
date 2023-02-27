@@ -1,0 +1,1241 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ScholarLed catalogue",
+    "section": "",
+    "text": "Introduction\nThis website is a catalogue of publications from the open access publishers in the ScholarLed consortium (Mattering Press, meson press, Open Book Publishers, punctum books, African Minds, and mediastudies.press). It’s an example of constructing a dynamic computational publication using a workflow of Jupyter Notebook files, Python code, and Quarto technical publishing software.\nAll bibliographic metadata is retrieved from Thoth, an open metadata management and dissemination system for open access books designed as part of the COPIM project. Thoth has a range of open APIs for metadata retrieval and all metadata is licensed as Creative Commons Zero (CC0)."
+  },
+  {
+    "objectID": "all_press.nbconvert.html#no-date",
+    "href": "all_press.nbconvert.html#no-date",
+    "title": "All ScholarLed presses",
+    "section": "No date",
+    "text": "No date\n\nRemain\n\nAuthor: Jussi Parikka\nAuthor: Ioana B. Jucan\nAuthor: Rebecca Schneider\nhttps://doi.org/10.14619/1495"
+  },
+  {
+    "objectID": "all_press.nbconvert.html#no-date-1",
+    "href": "all_press.nbconvert.html#no-date-1",
+    "title": "All ScholarLed presses",
+    "section": "No date",
+    "text": "No date\n\nTechnopharmacology\nAuthor: Joshua Neves\nAuthor: Susanna Paasonen\nAuthor: Aleena Chia\nAuthor: Ravi Sundaram\nhttps://doi.org/10.14619/029-0"
+  },
+  {
+    "objectID": "all_press.nbconvert.html#february-2023",
+    "href": "all_press.nbconvert.html#february-2023",
+    "title": "All ScholarLed presses",
+    "section": "February 2023",
+    "text": "February 2023\n\nThe Goths & Other Stories\n\nAuthor: Tis Kaoru Zamler-Carhart\nEarth, Milky Way: punctum books, 2023\nhttps://doi.org/10.53288/0492.1.00\n\n\nDire Straits-Education Reforms: Ideology, Vested Interests and Evidence\n\nAuthor: Montserrat Gomendio\nAuthor: José Ignacio Wert\nCambridge, UK: Open Book Publishers, 2023\nhttps://doi.org/10.11647/OBP.0332\nResponding to an ‘educational emergency’ generated largely by the difficulties of implementing education reforms, this book compares education policies around the world in order to understand what works where. To address the key question of why education reforms are so difficult, the authors take into account a broad range of relevant factors, such as governance, ideology, and stakeholder conflicts of interest, and their interactions with one another.\n\n\nThe Historical Depth of the Tiberian Reading Tradition of Biblical Hebrew\n\nAuthor: Aaron D. Hornkohl\nCambridge, UK: Open Book Publishers, 2023\nhttps://doi.org/10.11647/OBP.0310\nThis volume explores an underappreciated feature of the standard Tiberian Masoretic tradition of Biblical Hebrew, namely its composite nature. Focusing on cases of dissonance between the tradition’s written (consonantal) and reading (vocalic) components, the study shows that the Tiberian spelling and pronunciation traditions, though related, interdependent, and largely in harmony, at numerous points reflect distinct oral realisations of the biblical text."
+  },
+  {
+    "objectID": "all_press.nbconvert.html#january-2023",
+    "href": "all_press.nbconvert.html#january-2023",
+    "title": "All ScholarLed presses",
+    "section": "January 2023",
+    "text": "January 2023\n\nWho Counts? Ghanaian Academic Publishing and Global Science\n\nAuthor: David Mills\nAuthor: Patricia Kingori\nAuthor: Abigail Branford\nAuthor: Samuel T. Chatio\nAuthor: Natasha Robinson\nAuthor: Paulina Tindana\nSouth Africa: African Minds, 2023\nhttps://doi.org/10.47622/9781928502647\nSince the 1990s, global academic publishing has been transformed by digitisation, consolidation and the rise of the internet. The data produced by commercially owned citation indexes increasingly defines legitimate academic knowledge. Publication in prestigious ‘high impact’ journals can be traded for academic promotion, tenure and job-security. African researchers and publishers labour in the shadows of a global knowledge system dominated by ‘Northern’ journals and by global publishing conglomerates. This book goes beyond the numbers. It tells the story of how the Ghanaian academy is being transformed by this bibliometric economy. It offers a rich account of the voices and perspectives of Ghanaian academics and African journal publishers. How, where and when are Ghana’s researchers disseminating their work, and what do these experiences reveal about an unequal global science system? Is there pressure to publish in ‘reputable’ international journals, what role do supervisors, collaborators and mentors play, and how do academics manage in conditions of scarcity? Putting the insights of more than 40 Ghanaian academics into dialogue with journal editors and publishers from across the continent, the book highlights creative responses, along with the emergence of new regional research ecosystems. This is an important Africa-centred analysis of Anglophone academic publishing on the continent and its relationship to global science.\n\n\nNotes on Trumpspace: Politics, Aesthetics, and the Fantasy of Home\n\nAuthor: David Markus\nEarth, Milky Way: punctum books, 2023\nhttps://doi.org/10.53288/0366.1.00\n\n\nCreativity: Process and Personality\n\nAuthor: Larry Gross\nBethlehem, PA: mediastudies.press, 2023\nhttps://doi.org/10.32376/3f8575cb.60b97b6f\nCreativity: Process and Personality, a 1964 thesis published for the first time, features interviews on creativity with prominent psychologists, including B. F. Skinner, Herbert Simon, Abraham Maslow, David McClelland, Jerome Bruner, and Milton Rokeach.\n\n\nReshaping Food Systems to improve Nutrition and Health in the Eastern Mediterranean Region\n\nAuthor: Ayoub Al-Jawaldeh\nAuthor: Alexa Meyer\nCambridge, UK: Open Book Publishers, 2023\nhttps://doi.org/10.11647/OBP.0322\nThis detailed and comprehensive study examines nutrition and health in the World Health Organization (WHO) Eastern Mediterranean Region, presenting the six game-changing food systems actions proposed by the WHO and the progress of their implementation in the region."
+  },
+  {
+    "objectID": "all_press.nbconvert.html#december-2022",
+    "href": "all_press.nbconvert.html#december-2022",
+    "title": "All ScholarLed presses",
+    "section": "December 2022",
+    "text": "December 2022\n\nNortheastern Asia and the Northern Rockies: Treasures from the Los Angeles County Museum of Art and the Daryl S. Paulson Collection\n\nAuthor: T. Lawrence Larkin\nAuthor: Stephen Little\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0383.1.00\n\n\nThe Angels Won’t Help You\n\nAuthor: M.H. Bowker\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0388.1.00\n\n\nChance Encounters: A Bioethics for a Damaged Planet\n\nAuthor: Kristien Hens\nIllustrator: Christina Stadlbauer\nIllustrator: Bart H.M. Vandeput\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0320\nIn this rigorous and necessary book, Kristien Hens brings together bioethics and the philosophy of biology to argue that it is ethically necessary for scientific research to include a place for the philosopher. As well as ethical, their role is conceptual: they can improve the quality and coherence of scientific research by ensuring that particular concepts are used consistently and thoughtfully across interdisciplinary projects. Hens argues that chance and uncertainty play a central part in bioethics, but that these qualities can be in tension with the attempt to establish a given theory as scientific knowledge: in describing organisms and practices, in a sense we create the world. Hens contends that this is necessarily an ethical activity.\n\n\nCommunication Conduct in an Island Community\n\nAuthor: Erving Goffman\nIntroduction_by: Yves Winkin\nBethlehem, PA: mediastudies.press, 2022\nhttps://doi.org/10.32376/3f8575cb.baaa50af\nErving Goffman’s 1953 dissertation, published here for the first time on the hundredth anniversary of his birth.\n\n\nMusic in Evolution and Evolution in Music\n\nAuthor: Steven Jan\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0301\nMusic in Evolution and Evolution in Music by Steven Jan is a comprehensive account of the relationships between evolutionary theory and music. Examining the ‘evolutionary algorithm’ that drives biological and musical-cultural evolution, the book provides a distinctive commentary on how musicality and music can shed light on our understanding of Darwin’s famous theory – and vice-versa.\n\n\nWilliam Rimmer: Champion of Imagination in American Art\n\nAuthor: Dorinda Evans\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0304\nWilliam Rimmer (1816–1879) is arguably the first modernist American sculptor, although his inventive originality has not been fully acknowledged. Rimmer cultivated an art of ideas and personal expression whilst supporting himself as a physician and, later, as a teacher of art anatomy at the Cooper Union School of Design for Women in New York.\n\n\nStatic Palace\n\nAuthor: Leora Fridman\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0411.1.00"
+  },
+  {
+    "objectID": "all_press.nbconvert.html#november-2022",
+    "href": "all_press.nbconvert.html#november-2022",
+    "title": "All ScholarLed presses",
+    "section": "November 2022",
+    "text": "November 2022\n\nEngaging with Everyday Sounds\n\nAuthor: Marcel Cobussen\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0288\n‘Engaging With Everyday Sounds’ is a rich and inspiring exploration of the role of sounds in everyday life, including their impact on human actions, emotions, and imagination. Marcel Cobussen intertwines sonic studies with philosophy, sound art, sociology and more to create an impressively lucid and innovative guide to sonic materialism, calling for a re-sensitization to our acoustic environment and arguing that everyday sounds have (micro)political, social, and ethical impact to which we should attend.\n\n\nThe Bible in the Bowls: A Catalogue of Biblical Quotations in Published Jewish Babylonian Aramaic Magic Bowls\n\nAuthor: Daniel James Waller\nContributions_by: Dorota Molin\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0305\nThe Bible in the Bowls represents a complete catalogue of Hebrew Bible quotations found in the published corpus of Jewish Babylonian Aramaic magic bowls. As our only direct epigraphic witnesses to the Hebrew Bible from late antique Babylonia, the bowls are uniquely placed to contribute to research on the (oral) transmission of the biblical text in late antiquity; the pre-Masoretic Babylonian vocalisation tradition; the formation of the liturgy and the early development of the Jewish prayer book; the social locations of biblical knowledge in late antique Babylonia and socio-religious typologies of the bowls; and the dynamics of scriptural citation in ancient Jewish magic.\n\n\nMy Phone Lies to Me: Fake News Poetry Workshops As Radical Digital Media Literacy Given the Fact of Fake News\n\nEditor: Alexandra Juhasz\nForeword_by: Tara McPherson\nAfterword_by: Margaret Rhee\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0394.1.00\n\n\nFascism, Vulnerability, and the Escape from Freedom: Readings to Repair Democracy\n\nAuthor: C. Jon Delogu\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0392.1.00"
+  },
+  {
+    "objectID": "all_press.nbconvert.html#october-2022",
+    "href": "all_press.nbconvert.html#october-2022",
+    "title": "All ScholarLed presses",
+    "section": "October 2022",
+    "text": "October 2022\n\n‘Fragile States’ in an Unequal World: The Role of the g7+ in International Diplomacy and Development Cooperation\n\nAuthor: Isabel Rocha de Siqueira\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0311\nThis is a book about people. ‘Fragile States’ in an Unequal World: The Role of the g7+ in International Diplomacy and Development Cooperation introduces the members of the g7+, a group formed by 20 conflict-affected states: why they came to believe in politics and policy; how they feel about their work, their family and their communities; and what they want to leave behind for the next generations. It is the story of their personal and collective values, their mistakes, and the challenges they faced, and it will resonate with anyone who has tried to organize and work with a group of very different people.\n\n\nSomething More Splendid Than Two\n\nAuthor: josé rivers alfaro\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0412.1.00\n\n\nDiachronic Variation in the Omani Arabic Vernacular of the Al-ʿAwābī District: From Carl Reinhardt (1894) to the Present Day\n\nAuthor: Roberta Morano\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0298\nIn this monograph, Roberta Morano re-examines one of the foundational works of the Omani Arabic dialectology field, Carl Reinhardt’s Ein arabischer Dialekt gesprochen in ’Oman und Zanzibar (1894). This German-authored work was prolific in shaping our knowledge of Omani Arabic during the twentieth century, until the 1980s when more recent linguistic studies on the Arabic varieties spoken in Oman began to appear.\n\n\nThe Official Indonesian Qurʾān Translation: The History and Politics of Al-Qur’an dan Terjemahnya\n\nAuthor: Fadhli Lukman\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0289\nThis book studies the political and institutional project of Al-Qur’an dan Terjemahnya, the official translation of the Qurʾān into Indonesian by the Indonesian government. It investigates how the translation was produced and presented, and how it is read, as well as considering the implications of the state’s involvement in such a work."
+  },
+  {
+    "objectID": "all_press.nbconvert.html#september-2022",
+    "href": "all_press.nbconvert.html#september-2022",
+    "title": "All ScholarLed presses",
+    "section": "September 2022",
+    "text": "September 2022\n\nGuantánamo Frames\nAuthor: Rebecca Boguska\nLüneburg: meson press eG, 2022\nhttps://doi.org/10.14619/2065\n\n\nNonconscious: On the Affective Synching of Mind and Machine\n\nAuthor: Marie-Luise Angerer\nLüneburg: meson press eG, 2022\nhttps://doi.org/10.14619/2041\nGrowing numbers of nonhuman companions are creating affective synching between human and nonhuman agency. Unlike the unconscious of psychoanalysis, this book argues, the resulting nonconscious is no longer coupled to a subject grounded in language, instead acting as an affective link between technical, mental, and physical processes.\n\n\nThe Dark Posthuman: Dehumanization, Technology, and the Atlantic World\n\nAuthor: Stephanie Polsky\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0381.1.00\n\n\nA Credible Utopia: Essays on Selected Films of Werner Schroeter\n\nAuthor: Peter Valente\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0391.1.00\n\n\nAn Outline of Romanticism in the West\n\nAuthor: John Claiborne Isbell\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0302\nNavigating the landscape of Romantic literature and art across Europe and the Americas, An Outline of Romanticism in the West invites readers to embark upon a literary journey. Showcasing a breadth of theoretical and contextual approaches to the study of Romanticism, John Isbell provides an insightful contemporary overview of the field, paired with wide-ranging comparative reflections on the art and literature that helped shape it.\n\n\nStyling Sagaciousness: Oh Great No!\n\nAuthor: Joseph Nechvatal\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0387.1.00"
+  },
+  {
+    "objectID": "all_press.nbconvert.html#august-2022",
+    "href": "all_press.nbconvert.html#august-2022",
+    "title": "All ScholarLed presses",
+    "section": "August 2022",
+    "text": "August 2022\n\nThe Classical Parthenon: Recovering the Strangeness of the Ancient World\n\nAuthor: William St Clair\nEditor: Lucy Barnes\nEditor: David St Clair\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0279\nComplementing Who Saved the Parthenon? this companion volume sets aside more recent narratives surrounding the Athenian Acropolis, supposedly ‘the very symbol of democracy itself’, instead asking if we can truly access an ancient past imputed with modern meaning. And, if so, how?\n\n\nSecond Chance: My Life in Things\n\nAuthor: Ruth Rosengarten\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0285\nIn this intimate memoir, Ruth Rosengarten explores the subject of evocative objects through a series of interconnected essays.\n\n\nSefer ha-Pardes by Jedaiah ha-Penini: A Critical Edition with English Translation\n\nAuthor: David Torollo\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0299\nThis groundbreaking new work is the first full critical edition and English translation of the Hebrew book Sefer ha-Pardes [The Book of the Orchard], written at the end of the thirteenth century by the Provençal Jewish author Jedaiah ha-Penini."
+  },
+  {
+    "objectID": "all_press.nbconvert.html#july-2022",
+    "href": "all_press.nbconvert.html#july-2022",
+    "title": "All ScholarLed presses",
+    "section": "July 2022",
+    "text": "July 2022\n\nWorks for Works, Book 1: Useless Beauty\n\nAuthor: Gavin Keeney\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0375.1.00\n\n\nReading the Juggler of Notre Dame: Medieval Miracles and Modern Remakings\n\nAuthor: Jan M. Ziolkowski\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0284\nIn this two-part anthology, Jan M. Ziolkowski builds on themes uncovered in his earlier The Juggler of Notre Dame and the Medievalizing of Modernity. Here he focuses particularly on the performing arts.\n\n\nEscape Philosophy: Journeys Beyond the Human Body\n\nAuthor: Roy Christopher\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0416.1.00\n\n\nThe Power of Music: An Exploration of the Evidence\n\nAuthor: Susan Hallam\nAuthor: Evangelos Himonides\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0292\nBuilding on her earlier work, ‘The Power of Music: A Research Synthesis of the Impact of Actively Making Music on the Intellectual, Social and Personal Development of Children and Young People’, this volume by Susan Hallam and Evangelos Himonides is an important new resource in the field of music education, practice, and psychology.\n\n\nPitch and Revelation: Reconfigurations of Reading, Poetry, and Philosophy through the Work of Jay Wright\n\nAuthor: Matthew Goulish\nAuthor: Will Daddario\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0380.1.00"
+  },
+  {
+    "objectID": "all_press.nbconvert.html#june-2022",
+    "href": "all_press.nbconvert.html#june-2022",
+    "title": "All ScholarLed presses",
+    "section": "June 2022",
+    "text": "June 2022\n\nNeo-Aramaic and Kurdish Folklore from Northern Iraq: A Comparative Anthology with a Sample of Glossed Texts, Volume 1\n\nAuthor: Geoffrey Khan\nAuthor: Dorota Molin\nAuthor: Masoud Mohammadirad\nAuthor: Paul M. Noorlander\nContributions_by: Lourd Habeeb Hanna\nContributions_by: Aziz Emmanuel Eliya Al-Zebari\nContributions_by: Salim Abraham\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0306\nThis comparative anthology showcases the rich and mutually intertwined folklore of three ethno-religious communities from northern Iraq: Aramaic-speaking (‘Syriac’) Christians, Kurdish Muslims and—to a lesser extent—Aramaic-speaking Jews.\n\n\nNothing As We Need It: A Chimera\n\nAuthor: Daniela Cascella\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0382.1.00\n\n\nNeo-Aramaic and Kurdish Folklore from Northern Iraq: A Comparative Anthology with a Sample of Glossed Texts, Volume 2\n\nAuthor: Geoffrey Khan\nAuthor: Paul M. Noorlander\nAuthor: Masoud Mohammadirad\nAuthor: Dorota Molin\nContributions_by: Lourd Habeeb Hanna\nContributions_by: Aziz Emmanuel Eliya Al-Zebari\nContributions_by: Salim Abraham\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0307\nThis comparative anthology showcases the rich and mutually intertwined folklore of three ethno-religious communities from northern Iraq: Aramaic-speaking (‘Syriac’) Christians, Kurdish Muslims and—to a lesser extent—Aramaic-speaking Jews.\n\n\nFahrradutopien: Medien, Ästhetiken und Aktivismus\n\nAuthor: Julia Bee\nAuthor: Ulrike Bergermann\nAuthor: Linda Keck\nAuthor: Sarah Sander\nAuthor: Herbert Schwaab\nAuthor: Markus Stauff\nAuthor: Franzi Wagner\nLüneburg: meson press eG, 2022\nhttps://doi.org/10.14619/1952\n\n\nTurkish Voices\n\nAuthor: Murat Nemet-Nejat\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0390.1.00\n\n\nThe Merger Mystery: Why Spend Ever More on Mergers When So Many Fail?\n\nAuthor: Geoff Meeks\nAuthor: J. Gay Meeks\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0309\nDrawing on findings from a wealth of statistical analyses and case evidence from many businesses, the book presents answers to this merger mystery. In a synthesis of ideas from several disciplines, solutions are detected in misaligned incentives, distorted financial engineering and information asymmetry. By revealing how weaknesses at multiple points can interact and cumulate to produce inefficient outcomes, the discussion serves as a corrective to the overwhelmingly positive tone of most commentary on M&A, whilst also advocating changes in participants’ contracts, in taxation, and in regulation which could significantly reduce the number of mergers that fail.\n\n\nLetters on the Autonomy Project\n\nAuthor: Janet Sarbanes\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0358.1.00"
+  },
+  {
+    "objectID": "all_press.nbconvert.html#may-2022",
+    "href": "all_press.nbconvert.html#may-2022",
+    "title": "All ScholarLed presses",
+    "section": "May 2022",
+    "text": "May 2022\n\nPerforming Deception: Learning, Skill and the Art of Conjuring\n\nAuthor: Brian Rappert\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0295\nIn Performing Deception, Brian Rappert reconstructs the practice of entertainment magic by analysing it through the lens of perception, deception and learning, as he goes about studying conjuring himself.\n\n\nWho Saved the Parthenon?: A New History of the Acropolis Before, During and After the Greek Revolution\n\nAuthor: William St Clair\nEditor: David St Clair\nEditor: Lucy Barnes\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0136\nIn this magisterial book, William St Clair unfolds the history of the Parthenon throughout the modern era to the present day, with special emphasis on the period before, during, and after the Greek War of Independence of 1821–32.\n\n\nBuilding Black: Towards Antiracist Architecture\n\nAuthor: Elliot C. Mason\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0372.1.00\n\n\nNubian Proverbs (Fadijja/Mahas)\n\nAuthor: Maher Habbob\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0346.1.00\n\n\nLow-Income Students, Human Development and Higher Education in South Africa: Opportunities, obstacles and outcomes\n\nAuthor: Melanie Walker\nAuthor: Monica McLean\nAuthor: Mikateko Mathebula\nAuthor: Patience Mukwambo\nCape Town: African Minds, 2022\nhttps://doi.org/10.47622/9781928502395\n\n\nOut of Place: An Autoethnography of Postcolonial Citizenship\n\nAuthor: Nuraan Davids\nForeword_by: Jonathan D Jansen\nCape Town: African Minds, 2022\nhttps://doi.org/10.47622/9781928502364\nOut of Place offers an in-depth exploration of Nuraan Davids’ experience as a Muslim ‘coloured’ woman, traversing a post-apartheid space. It centres on and explores a number of themes, which include her challenges not only as a South African citizen, and within her faith community, but as an academic citizen at a historically white university. The book is her story, an autoethnography, her reparation.\nBy embarking on an auto-ethnography, she not only tries to change the way her story has been told by others, transforms her ‘sense of what it means to live’ (Bhabha, 1994). She is driven by a postcolonial appeal, which insists that if she seeks to imprint her own way of life into the discourses which pervade the world around her, then she can no longer allow herself to be spoken on behalf of or to be subjugated into the hegemonies of others.\nThe main argument of Out of Place is that Muslim, ‘coloured’ women are subjected to layers of scrutiny and prejudices, which have yet to be confronted. What we know about Muslim ‘coloured’ women has been shaped by preconceived notions of ‘otherness’, and attached to a meta-narrative of ‘oppression and backwardness’. By centring and using her lived experiences, the author takes readers on a journey of what it is like to be seen in terms of race, gender and religion – not only within the public sphere of her professional identities, but within the private sphere of her faith community.\n\n\nPositioning Diversity in Kenyan Schools: Teaching in the Face of Inequality and Discrimination\n\nAuthor: Malve von Möllendorff\nSouth Africa: African Minds, 2022\nhttps://doi.org/10.47622/9781928502333\nEducation is considered key for societies to achieve greater social cohesion and equality. Yet, schools, as the main providers of formal education, have increasingly come into question concerning their role in manifesting and perpetuating social categorisations, inequalities and discrimination instead of decreasing existing fragmentations and challenging power relations and hierarchies.\nAs a diverse society, Kenya is faced with power struggles and rivalries between different groups – for instance, along ethnic lines, often constructed deep in colonial history. This affects teaching and learning in school and the result is that Kenya is faced with vast disparities in terms of educational access and success – rendering some social groups marginalised and others favoured.\nPositioning Diversity at Kenyan Schools explores the ways in which teachers in Kenyan primary and secondary schools experience and deal with social categorisations and diversity in terms of ethnicity, gender, wealth, culture, religion, etc. in their professional practice and in the current education system. Using critical pedagogy and diversity theory as a lens for positioning diversity in Kenyan schools, the questions that this book sets out to answer are: In what ways do the teachers’ and schools’ practices lead to transformation in terms of more social equality and less discrimination? In what ways do the practices manifest existing group categorisations, hierarchies and discrimination? How can schools and teaching practices in postcolonial Kenya become more inclusive and foster social cohesion and equality?"
+  },
+  {
+    "objectID": "all_press.nbconvert.html#april-2022",
+    "href": "all_press.nbconvert.html#april-2022",
+    "title": "All ScholarLed presses",
+    "section": "April 2022",
+    "text": "April 2022\n\nThe Voice of the Century: The Culture of Italian Bel Canto in Luisa Tetrazzini’s Recorded Interpretations\n\nAuthor: Massimo Zicari\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0277\nThis innovative work considers the notion of bel canto and the manner in which this vibrant tradition lives in the records of Luisa Tetrazzini (1871-1940), one of the most celebrated sopranos ever. Tetrazzini, whose discographic career includes about 120 recordings, belongs to that generation of inspirational performers who heralded the dawn of a new era of music appreciation, alongside such iconic figures as Enrico Caruso, Adelina Patti and Nellie Melba.\n\n\nA Philosophy of Cover Songs\n\nAuthor: P.D. Magnus\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0293\nIn A Philosophy of Cover Songs, P.D. Magnus demonstrates that philosophy provides a valuable toolbox for thinking about covers; in turn, the philosophy of cover songs illustrates some general points about philosophical method.\n\n\nEcocene Politics\n\nAuthor: Mihnea Tănăsescu\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0274\nAnchored in the diverse ecological practices of communities in southern Italy and Aotearoa/New Zealand, this book devises a unique and considered theoretical response to the shortcomings of global politics in the Ecocene—a new temporal epoch characterised by the increasingly frequent intrusion of ecological processes into political life.\n\n\nFoucault, digital\nAuthor: Bernhard J. Dotzler\nAuthor: Henning Schmidgen\nLüneburg: meson press eG, 2022\nhttps://doi.org/10.14619/1983\n\n\nBroken Theory\n\nAuthor: Alan Sondheim\nAfterword_by: Ryan Whyte\nPreface_by: Maria Damon\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0393.1.00\n\n\nConcealing for Freedom: The Making of Encryption, Secure Messaging and Digital Liberties\nAuthor: Ksenia Ermoshina\nAuthor: Francesca Musiani\nForeword_by: Laura DeNardis\nManchester, UK: Mattering Press, 2022\nhttps://doi.org/10.28938/9781912729227\nConcealing for Freedom: The Making of Encryption, Secure Messaging and Digital Liberties sets out to explore one of the core battlegrounds of Internet governance: the encryption of online communications. Current debates around encryption have fundamental implications for our individual liberties and collective presence on the Internet. Encryption of communications at scale and in increasingly usable ways has become a matter of public concern, especially since Edward Snowden’s 2013 revelations. A new cryptographic imaginary is taking hold, which sees encryption as a necessary precondition for the formation of networked publics. At the same time, there have been major evolutions and accelerations in the field of secure communications, prompted in part by the cryptography community’s renewed efforts to create next-generation secure messaging protocols and applications. The book explores developers’ actions and their interactions with other stakeholders, for instance users, security trainers, standardising bodies, and funding organizations. It also examines their interactions with the technical artifacts they develop, in which a core common objective is to create tools that “conceal for freedom” even as how this objective is met differs according to technical architectures, the user publics being targeted and the tools’ underlying values and business models.\n\n\nA Buddha Land in This World: Philosophy, Utopia, and Radical Buddhism\n\nAuthor: Lajos Brons\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0373.1.00\n\n\nWhat Was Artificial Intelligence?\n\nAuthor: Sue Curry Jansen\nBethlehem, PA: mediastudies.press, 2022\nhttps://doi.org/10.32376/3f8575cb.0cc62523\nSue Curry Jansen’s classic critique of AI rhetoric, republished open access with a new introduction by Jansen."
+  },
+  {
+    "objectID": "all_press.nbconvert.html#march-2022",
+    "href": "all_press.nbconvert.html#march-2022",
+    "title": "All ScholarLed presses",
+    "section": "March 2022",
+    "text": "March 2022\n\ndis/cord: Thinking Sound through Agential Realism\n\nAuthor: Kevin Toksöz Fairbarn\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0360.1.00\n\n\nUexküll’s Surroundings: Umwelt Theory and Right-Wing Thought\n\nAuthor: Gottfried Schnödl\nAuthor: Florian Sprenger\nTranslator: Michael Thomas Taylor\nTranslator: Wayne Yung\nLüneburg: meson press eG, 2022\nhttps://doi.org/10.14619/2010\n\n\nA Short History of Transport in Japan from Ancient Times to the Present\n\nAuthor: John Andrew Black\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0281\nA Short History of Transport in Japan from Ancient Times to the Present is a unique study: the first by a Western scholar to place the long-term development of Japanese infrastructure alongside an analysis of its evolving political economy.\n\n\nThe Romanian Sentiment of Being\n\nAuthor: Constantin Noica\nTranslator: Octavian Gabor\nTranslator: Elena Gabor\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0355.1.00\n\n\nQueer and Bookish: Eve Kosofsky Sedgwick as Book Artist\n\nAuthor: Jason Edwards\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0328.1.00"
+  },
+  {
+    "objectID": "all_press.nbconvert.html#february-2022",
+    "href": "all_press.nbconvert.html#february-2022",
+    "title": "All ScholarLed presses",
+    "section": "February 2022",
+    "text": "February 2022\n\nWilliam Sharp and “Fiona Macleod”: A Life\n\nAuthor: William F. Halloran\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0276\nDrawing extensively on his letters, his wife Elizabeth Sharp’s Memoir, and accounts by friends and associates, this biography provides a lucid and intimate account of William Sharp’s life, from his rejection of the dour religion of his Scottish boyhood, his turn to spiritualism, to his role in the Scottish Celtic Revival in the mid-nineties.\n\n\nThe Christian Economy of the Early Medieval West: Towards a Temple Society\n\nAuthor: Ian Wood\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0371.1.00\n\n\nThe Neo-Aramaic Oral Heritage of the Jews of Zakho\n\nAuthor: Oz Aloni\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0272\nAloni focuses on three genres of the Zakho community’s oral heritage: the proverb, the enriched biblical narrative and the folktale.\n\n\nReplanteando la acción social por la música: la búsqueda de la convivencia y la ciudadanía en la Red de Escuelas de Música de Medellín\n\nAuthor: Geoffrey Baker\nTranslator: Claudia García\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0263\nEste libro pionero examina el desarrollo de La Red de Escuelas de Música de Medellín, una red de 27 escuelas fundada en 1996 en la segunda ciudad principal de Colombia como respuesta a su reputación como la ciudad más peligrosa en la Tierra. Inspirada en El Sistema, el programa venezolano fundacional de educación musical, La Red es, no obstante, notablemente diferente: su historia es una de múltiples reinvenciones y de una búsqueda continua para mejorar su oferta educativa y alcanzar mejor sus objetivos sociales. Sus reflexiones internas e intentos de transformación arrojan luz valiosa sobre el pasado, el presente y el futuro de ASPM."
+  },
+  {
+    "objectID": "all_press.nbconvert.html#january-2022",
+    "href": "all_press.nbconvert.html#january-2022",
+    "title": "All ScholarLed presses",
+    "section": "January 2022",
+    "text": "January 2022\n\nBroken Narrative: The Politics of Contemporary Art in Albania\n\nAuthor: Marco Mazzi\nAuthor: Armando Lulaj\nTranslator: Brenda Porster\nTranslator: Tomii Keiko\nPreface_by: Jonida Gashi\nPreface_by: Osamu Kanemura\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0341.1.00\n\n\nDemocratising Participatory Research: Pathways to Social Justice from the South\n\nAuthor: Carmen Martinez-Vargas\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0273\nIn this book Carmen Martinez-Vargas explores how academic participatory research and the way it is carried out can contribute to more, or less, social justice. Adopting theoretical and empirical approaches, and addressing multiple complex, intersectional issues, this book offers inspiration for scholars and practitioners to open up alternative pathways to social justice, viewed through a Global South lens.\n\n\nAbruptly Dogen\n\nAuthor: Kidder Smith\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0389.1.00\n\n\nHoros: Ancient Boundaries and the Ecology of Stone\n\nAuthor: Thea Potter\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0266\nIn Horos, Thea Potter explores the complex relationship between classical philosophy and the ‘horos’, a stone that Athenians erected to mark the boundaries of their marketplace, their gravestones, their roads and their private property.Potter weaves this history into a meditation on the ancient philosophical concept of horos, the foundational project of determination and definition, arguing that it is central to the development of classical philosophy and the marketplace."
+  },
+  {
+    "objectID": "all_press.nbconvert.html#december-2021",
+    "href": "all_press.nbconvert.html#december-2021",
+    "title": "All ScholarLed presses",
+    "section": "December 2021",
+    "text": "December 2021\n\nSweet Spots: Writing the Connective Tissue of Relation\n\nAuthor: Mattie-Martha Sempert\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0340.1.00\n\n\nWonder, Horror, Mystery: Letters on Cinema and Religion in Malick, Von Trier, and Kieślowski\n\nAuthor: J.M. Tyree\nAuthor: Morgan Meis\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0359.1.00\n\n\nMaking the Void Fruitful: Yeats as Spiritual Seeker and Petrarchan Lover\n\nAuthor: Patrick J. Keane\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0275\nShedding fresh light on the life and work of William Butler Yeats—widely acclaimed as the major English-language poet of the twentieth century—this new study by leading scholar Patrick J. Keane questions established understandings of the Irish poet’s long fascination with the occult: a fixation that repelled literary contemporaries T.S. Eliot and W.H. Auden, but which enhanced Yeats’s vision of life and death.\n\n\nWarez: The Infrastructure and Aesthetics of Piracy\n\nAuthor: Martin Paul Eve\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0339.1.00\n\n\nPoints of Contact: The Shared Intellectual History of Vocalisation in Syriac, Arabic, and Hebrew\n\nAuthor: Nick Posegay\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0271\nThis book investigates the theories behind Semitic vocalisation and vowel phonology in the early medieval Middle East, tracing their evolution to identify points of intellectual contact between Syriac, Arabic, and Hebrew linguists before the twelfth century.\n\n\nMary Warnock: Ethics, Education and Public Policy in Post-War Britain\n\nAuthor: Philip Graham\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0278\nThis biography illuminates the life and thought of Baroness Mary Warnock, whose active years spanned the second half of the twentieth century, a period during which opportunities for middle-class women rapidly and vastly improved.\n\n\nAuld Lang Syne: A Song and its Culture\n\nAuthor: Morag Josephine Grant\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0231\nIn Auld Lang Syne: A Song and its Culture, M. J. Grant explores the history of this iconic song, demonstrating how its association with ideas of fellowship, friendship and sociality has enabled it to become so significant for such a wide range of individuals and communities around the world.\n\n\nCoping: A Philosophical Guide\n\nAuthor: Luc Bovens\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0268\nCoping and Philosophy is a collection of philosophical essays on how we deal with life’s challenges. We hope for better times, but what is hope and is it a good thing to hope? How do we look back and make sense of our lives in the face of death? What is the nature of love and how do we deal with its hardships? What makes for a genuine apology and is there too much or too little apologizing in this world? Can we effect changes in ourselves to adapt to our circumstances? And how can we sense of all the counsel that people have: be grateful, don’t cry over spilled milk, eat well, …"
+  },
+  {
+    "objectID": "all_press.nbconvert.html#november-2021",
+    "href": "all_press.nbconvert.html#november-2021",
+    "title": "All ScholarLed presses",
+    "section": "November 2021",
+    "text": "November 2021\n\nEpidicus by Plautus: An Annotated Latin Text, with a Prose Translation\n\nAuthor: Catherine Tracy\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0269\nEpidicus, a light-hearted comedy by Plautus about the machinations of a trickster slave and the inadequacies of his bumbling masters, appears here in both its original Latin and a sparkling new translation by Catherine Tracy. Epidicus, the cunning slave, is charged with finding his master’s illegitimate daughter and the secret girlfriend of his master’s son, but a comedy of mistaken identities and competing interests ensues. Amid the mayhem, Epidicus aims to win his freedom whilst risking some of the grislier punishments the Romans inflicted on their unfortunate slaves.\n\n\nEngineering the Climate: Science, Politics and Visions of Control\n\nAuthor: Julia Schubert\nManchester, UK: Mattering Press, 2021\nhttps://doi.org/10.28938/9781912729265\nNotions of the impending climate crisis have pushed a set of highly contested techno-scientific measures onto policy agendas around the world. Suggestions to deliberately alter, to engineer, the Earth’s climate have gained political currency in recent years not as a positive vision of techno-scientific innovation, but as a daunting measure of last resort. The controversial status of various so-called climate engineering proposals raises a simple, yet pressing question: How has it has come to this? And, more specifically, how did such contested measures earn their place on policy agendas, despite enormous scientific complexities and fierce political contestation?\n\n\nSuture: Trauma and Trans Becoming\n\nAuthor: KJ Cerankowski\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0357.1.00\n\n\nGeographies of Identity: Narrative Forms, Feminist Futures\n\nAuthor: Jill Darling\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0329.1.00\n\n\nForms of Life and Subjectivity: Rethinking Sartre’s Philosophy\n\nAuthor: Daniel Rueda Garrido\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0259\n‘Forms of Life and Subjectivity: Rethinking Sartre’s Philosophy’ explores the fundamental question of why we act as we do. Informed by an ontological and phenomenological approach, and building mainly, but not exclusively, on the thought of Sartre, Daniel Rueda Garrido considers the concept of a “form of life” as a term that bridges the gap between subjective identity and communities.\n\n\nDocumentary Making for Digital Humanists\n\nAuthor: Darren R. Reid\nAuthor: Brett Sanders\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0255\nDocumentary Making for Digital Humanists sets out the fundamentals of filmmaking, explores academic discourse on digital documentaries and online distribution, and considers the place of this discourse in the evolving academic landscape."
+  },
+  {
+    "objectID": "all_press.nbconvert.html#october-2021",
+    "href": "all_press.nbconvert.html#october-2021",
+    "title": "All ScholarLed presses",
+    "section": "October 2021",
+    "text": "October 2021\n\nUexkülls Umgebungen: Umweltlehre und rechtes Denken\n\nAuthor: Florian Sprenger\nAuthor: Gottfried Schnödl\nLüneburg: meson press eG, 2021\nhttps://doi.org/10.14619/1921\n\n\nBullied: The Story of an Abuse\n\nAuthor: Jonathan Alexander\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0356.1.00\n\n\nAncient Greek I: A 21st Century Approach\n\nAuthor: Philip S. Peek\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0264\nIn this elementary textbook, Philip S. Peek draws on his twenty-five years of teaching experience to present the ancient Greek language in an imaginative and accessible way that promotes creativity, deep learning, and diversity.\n\n\nMedia and Management\nAuthor: Rutvica Andrijasevic\nAuthor: Julie Yujie Chen\nAuthor: Melissa Gregg\nAuthor: Marc Steinberg\nLüneburg: meson press eG, 2021\nhttps://doi.org/10.14619/028-3\n\n\nObiter Dicta\n\nAuthor: Erick Verran\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0301.1.00"
+  },
+  {
+    "objectID": "all_press.nbconvert.html#september-2021",
+    "href": "all_press.nbconvert.html#september-2021",
+    "title": "All ScholarLed presses",
+    "section": "September 2021",
+    "text": "September 2021\n\nWound Building: Dispatches from the Latest Disasters in UK Poetry\n\nAuthor: Danny Hayward\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0332.1.00\n\n\n(((\n\nAuthor: Alessandro De Francesco\nTranslator: Gen Ueda\nTranslator: Andreas Burckhardt\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0370.1.00"
+  },
+  {
+    "objectID": "all_press.nbconvert.html#august-2021",
+    "href": "all_press.nbconvert.html#august-2021",
+    "title": "All ScholarLed presses",
+    "section": "August 2021",
+    "text": "August 2021\n\nCloser to Dust\n\nAuthor: Sara A. Rich\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0324.1.00\n\n\nFrom Goethe to Gundolf: Essays on German Literature and Culture\n\nAuthor: Roger Paulin\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0258\nFrom Goethe to Gundolf: Essays on German Literature and Culture is a collection of Roger Paulin’s groundbreaking essays, spanning the last forty years.\n\n\nThe Map and the Territory\n\nAuthor: Michael Munro\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0319.1.00\n\n\nInefficient Mapping: A Protocol for Attuning to Phenomena\n\nAuthor: Linda Knight\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0336.1.00"
+  },
+  {
+    "objectID": "all_press.nbconvert.html#july-2021",
+    "href": "all_press.nbconvert.html#july-2021",
+    "title": "All ScholarLed presses",
+    "section": "July 2021",
+    "text": "July 2021\n\nStill Life: Notes on Barbara Loden’s “Wanda” (1970)\n<img src=“https://punctumbooks.com/punctum/wp-content/uploads/2020/10/201001stilllife-cover-web-front.jpg” alt=“cover for Still Life: Notes on Barbara Loden’s”Wanda” (1970)” width=“300”/>\nAuthor: Anna Backman Rogers\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0326.1.00\n\n\nHelicography\n\nAuthor: Craig Dworkin\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0352.1.00"
+  },
+  {
+    "objectID": "african_press.nbconvert.html#january-2023",
+    "href": "african_press.nbconvert.html#january-2023",
+    "title": "African Minds",
+    "section": "January 2023",
+    "text": "January 2023\n\nWho Counts? Ghanaian Academic Publishing and Global Science\n\nAuthor: Paulina Tindana\nAuthor: David Mills\nAuthor: Patricia Kingori\nAuthor: Abigail Branford\nAuthor: Natasha Robinson\nAuthor: Samuel T. Chatio\nSouth Africa: African Minds, 2023\nhttps://doi.org/10.47622/9781928502647\nSince the 1990s, global academic publishing has been transformed by digitisation, consolidation and the rise of the internet. The data produced by commercially owned citation indexes increasingly defines legitimate academic knowledge. Publication in prestigious ‘high impact’ journals can be traded for academic promotion, tenure and job-security. African researchers and publishers labour in the shadows of a global knowledge system dominated by ‘Northern’ journals and by global publishing conglomerates. This book goes beyond the numbers. It tells the story of how the Ghanaian academy is being transformed by this bibliometric economy. It offers a rich account of the voices and perspectives of Ghanaian academics and African journal publishers. How, where and when are Ghana’s researchers disseminating their work, and what do these experiences reveal about an unequal global science system? Is there pressure to publish in ‘reputable’ international journals, what role do supervisors, collaborators and mentors play, and how do academics manage in conditions of scarcity? Putting the insights of more than 40 Ghanaian academics into dialogue with journal editors and publishers from across the continent, the book highlights creative responses, along with the emergence of new regional research ecosystems. This is an important Africa-centred analysis of Anglophone academic publishing on the continent and its relationship to global science."
+  },
+  {
+    "objectID": "african_press.nbconvert.html#may-2022",
+    "href": "african_press.nbconvert.html#may-2022",
+    "title": "African Minds",
+    "section": "May 2022",
+    "text": "May 2022\n\nOut of Place: An Autoethnography of Postcolonial Citizenship\n\nAuthor: Nuraan Davids\nForeword_by: Jonathan D Jansen\nCape Town: African Minds, 2022\nhttps://doi.org/10.47622/9781928502364\nOut of Place offers an in-depth exploration of Nuraan Davids’ experience as a Muslim ‘coloured’ woman, traversing a post-apartheid space. It centres on and explores a number of themes, which include her challenges not only as a South African citizen, and within her faith community, but as an academic citizen at a historically white university. The book is her story, an autoethnography, her reparation.\nBy embarking on an auto-ethnography, she not only tries to change the way her story has been told by others, transforms her ‘sense of what it means to live’ (Bhabha, 1994). She is driven by a postcolonial appeal, which insists that if she seeks to imprint her own way of life into the discourses which pervade the world around her, then she can no longer allow herself to be spoken on behalf of or to be subjugated into the hegemonies of others.\nThe main argument of Out of Place is that Muslim, ‘coloured’ women are subjected to layers of scrutiny and prejudices, which have yet to be confronted. What we know about Muslim ‘coloured’ women has been shaped by preconceived notions of ‘otherness’, and attached to a meta-narrative of ‘oppression and backwardness’. By centring and using her lived experiences, the author takes readers on a journey of what it is like to be seen in terms of race, gender and religion – not only within the public sphere of her professional identities, but within the private sphere of her faith community.\n\n\nLow-Income Students, Human Development and Higher Education in South Africa: Opportunities, obstacles and outcomes\n\nAuthor: Mikateko Mathebula\nAuthor: Melanie Walker\nAuthor: Patience Mukwambo\nAuthor: Monica McLean\nCape Town: African Minds, 2022\nhttps://doi.org/10.47622/9781928502395\n\n\nPositioning Diversity in Kenyan Schools: Teaching in the Face of Inequality and Discrimination\n\nAuthor: Malve von Möllendorff\nSouth Africa: African Minds, 2022\nhttps://doi.org/10.47622/9781928502333\nEducation is considered key for societies to achieve greater social cohesion and equality. Yet, schools, as the main providers of formal education, have increasingly come into question concerning their role in manifesting and perpetuating social categorisations, inequalities and discrimination instead of decreasing existing fragmentations and challenging power relations and hierarchies.\nAs a diverse society, Kenya is faced with power struggles and rivalries between different groups – for instance, along ethnic lines, often constructed deep in colonial history. This affects teaching and learning in school and the result is that Kenya is faced with vast disparities in terms of educational access and success – rendering some social groups marginalised and others favoured.\nPositioning Diversity at Kenyan Schools explores the ways in which teachers in Kenyan primary and secondary schools experience and deal with social categorisations and diversity in terms of ethnicity, gender, wealth, culture, religion, etc. in their professional practice and in the current education system. Using critical pedagogy and diversity theory as a lens for positioning diversity in Kenyan schools, the questions that this book sets out to answer are: In what ways do the teachers’ and schools’ practices lead to transformation in terms of more social equality and less discrimination? In what ways do the practices manifest existing group categorisations, hierarchies and discrimination? How can schools and teaching practices in postcolonial Kenya become more inclusive and foster social cohesion and equality?"
+  },
+  {
+    "objectID": "african_press.nbconvert.html#january-2020",
+    "href": "african_press.nbconvert.html#january-2020",
+    "title": "African Minds",
+    "section": "January 2020",
+    "text": "January 2020\n\nTransforming Research Excellence: New Ideas from the Global South\n\nEditor: Robert McLean\nEditor: Matthew Wallace\nEditor: Robert Tijssen\nEditor: Erika Kraemer-Mbula\nCape Town, South Africa: African Minds, 2020\nhttps://doi.org/10.47622/9781928502067"
+  },
+  {
+    "objectID": "african_press.nbconvert.html#november-2018",
+    "href": "african_press.nbconvert.html#november-2018",
+    "title": "African Minds",
+    "section": "November 2018",
+    "text": "November 2018\n\nThe Next Generation of Scientists in Africa\n\nAuthor: Catherine Beaudry\nAuthor: Johann Mouton\nAuthor: Heidi Prozesky\nCape Town, South Africa: African Minds, 2018\nhttps://doi.org/10.47622/978-1-928331-93-3\n\n\nResearch Universities in Africa\n\nAuthor: Nico Cloete\nAuthor: Ian Bunting\nAuthor: Francois van Schalkwyk\nCape Town, South Africa: African Minds, 2018\nhttps://doi.org/10.47622/9781928331872"
+  },
+  {
+    "objectID": "african_press.nbconvert.html#february-2018",
+    "href": "african_press.nbconvert.html#february-2018",
+    "title": "African Minds",
+    "section": "February 2018",
+    "text": "February 2018\n\nGoing to University: The Influence of Higher Education on the Lives of Young South Africans\n\nAuthor: Sioux McKenna\nAuthor: Disaapele Mogashana\nAuthor: Jennifer Case\nAuthor: Delia Marshall\nCape Town, South Africa: African Minds, 2018\nhttps://doi.org/10.47622/9781928331698"
+  },
+  {
+    "objectID": "african_press.nbconvert.html#october-2016",
+    "href": "african_press.nbconvert.html#october-2016",
+    "title": "African Minds",
+    "section": "October 2016",
+    "text": "October 2016\n\nThe Delusion of Knowledge Transfer: The Impact of Foreign Aid Experts on Policy-making in South Africa and Tanzania\n\nAuthor: Susanne Koch\nAuthor: Peter Weingart\nCape Town, South Africa: African Minds, 2016\nhttps://doi.org/10.47622/9781928331391"
+  },
+  {
+    "objectID": "african_press.nbconvert.html#may-2016",
+    "href": "african_press.nbconvert.html#may-2016",
+    "title": "African Minds",
+    "section": "May 2016",
+    "text": "May 2016\n\nElection Management Bodies in West Africa: A comparative study of the contribution of electoral commissions to the strengthen\n\nAuthor: Ismaila Fall\nAuthor: Mathias Hounkpe\nAuthor: Adele Jinadu\nAuthor: Pascal Kambale\nCape Town, South Africa: African Minds, 2016\nhttps://doi.org/10.47622/9781920489168\n\n\nCastells in Africa: Universities and Development\n\nAuthor: Nico Cloete\nAuthor: Johan Muller\nAuthor: Francois Van Schalkwyk\nCape Town, South Africa: African Minds, 2016\nhttps://doi.org/10.47622/9781920677923"
+  },
+  {
+    "objectID": "african_press.nbconvert.html#february-2016",
+    "href": "african_press.nbconvert.html#february-2016",
+    "title": "African Minds",
+    "section": "February 2016",
+    "text": "February 2016\n\nElection Management Bodies in East Africa\n\nAuthor: Alexander Makulilo\nAuthor: Eugène Ntaganda\nAuthor: Francis Away\nAuthor: Margaret Sekaggya\nAuthor: Patrick Osodo\nCape Town, South Africa: African Minds, 2016\nhttps://doi.org/10.47622/9781920677978"
+  },
+  {
+    "objectID": "african_press.nbconvert.html#january-2016",
+    "href": "african_press.nbconvert.html#january-2016",
+    "title": "African Minds",
+    "section": "January 2016",
+    "text": "January 2016\n\nEffectiveness of Anti-Corruption Agencies in East Africa: Kenya, Tanzania and Uganda\n\nAuthor: Open Society Initiative for Southern Africa (OSISA\nCape Town, South Africa: African Minds, 2016\nhttps://doi.org/10.47622/9781928331148\n\n\nCitizenship Law in Africa: A Comparative Study\n\nAuthor: Bronwyn Manby\nCape Town, South Africa: African Minds, 2016\nhttps://doi.org/10.47622/9781928331087\n\n\nThe Civil Society Guide to Regional Economic Communities in Africa\n\nAuthor: Morris Odhiambo\nAuthor: Rudy Chitiga\nAuthor: Solomon Ebobrah\nCape Town, South Africa: African Minds, 2016\nhttps://doi.org/10.47622/9781920677961"
+  },
+  {
+    "objectID": "african_press.nbconvert.html#october-2015",
+    "href": "african_press.nbconvert.html#october-2015",
+    "title": "African Minds",
+    "section": "October 2015",
+    "text": "October 2015\n\nBoundaries of the Educational Imagination\n\nAuthor: Wayne Hugo\nCape Town, South Africa: African Minds, 2015\nhttps://doi.org/10.47622/978-1-928331-01-8"
+  },
+  {
+    "objectID": "african_press.nbconvert.html#october-2014",
+    "href": "african_press.nbconvert.html#october-2014",
+    "title": "African Minds",
+    "section": "October 2014",
+    "text": "October 2014\n\nHigher Education in Portuguese Speaking African Countries\n\nAuthor: Patrício Langa\nCape Town, South Africa: African Minds, 2014\nhttps://doi.org/10.47622/9781920677039"
+  },
+  {
+    "objectID": "african_press.nbconvert.html#may-2014",
+    "href": "african_press.nbconvert.html#may-2014",
+    "title": "African Minds",
+    "section": "May 2014",
+    "text": "May 2014\n\nSeeking Impact and Visibility: Scholarly Communication in Southern Africa\n\nAuthor: Henry Trotter\nAuthor: Catherine Kell\nAuthor: Michelle Willmers\nAuthor: Eve Gray\nAuthor: Thomas King\nCape Town, South Africa: African Minds, 2014\nhttps://doi.org/10.47622/9781920677510"
+  },
+  {
+    "objectID": "african_press.nbconvert.html#november-2013",
+    "href": "african_press.nbconvert.html#november-2013",
+    "title": "African Minds",
+    "section": "November 2013",
+    "text": "November 2013\n\nTrading Places: Accessing land in African cities\n\nAuthor: Mark Napier\nAuthor: Stephen Berrisford\nAuthor: Caroline Kihato\nAuthor: Rod McGaffin\nAuthor: Lauren Royston\nCape Town, South Africa: African Minds, 2013\nhttps://doi.org/10.47622/978-1-920489-99-1"
+  },
+  {
+    "objectID": "african_press.nbconvert.html#may-2013",
+    "href": "african_press.nbconvert.html#may-2013",
+    "title": "African Minds",
+    "section": "May 2013",
+    "text": "May 2013\n\nThe Origins of War in Mozambique: A History of Unity and Division\n\nAuthor: Sayaka Funada-Classen\nCape Town, South Africa: African Minds, 2013\nhttps://doi.org/10.47622/978-1-920489-97-7\n\n\nSounding the Cape: Music, Identity and Politics in South Africa\n\nAuthor: Denis-Constant Martin\nCape Town, South Africa: African Minds, 2013\nhttps://doi.org/10.47622/978-1-920489-82-3"
+  },
+  {
+    "objectID": "african_press.nbconvert.html#august-2012",
+    "href": "african_press.nbconvert.html#august-2012",
+    "title": "African Minds",
+    "section": "August 2012",
+    "text": "August 2012\n\nPublic Broadcasting in Africa Series: Uganda\n\nAuthor: George Lugalambi\nCape Town, South Africa: African Minds, 2012\nhttps://doi.org/10.47622/9781920355401"
+  },
+  {
+    "objectID": "african_press.nbconvert.html#may-2012",
+    "href": "african_press.nbconvert.html#may-2012",
+    "title": "African Minds",
+    "section": "May 2012",
+    "text": "May 2012\n\nThe University in Africa and Democratic Citizenship: Hothouse or Training Ground?\n\nAuthor: Thierry Luescher-Mamashela\nCape Town, South Africa: African Minds, 2012\nhttps://doi.org/10.47622/9781920355678"
+  },
+  {
+    "objectID": "african_press.nbconvert.html#april-2011",
+    "href": "african_press.nbconvert.html#april-2011",
+    "title": "African Minds",
+    "section": "April 2011",
+    "text": "April 2011\n\nUniversities and Economic Development in Africa: Pact, academic core and coordination\n\nAuthor: Pundy Pillay\nAuthor: Nico Cloete\nAuthor: Tracy Bailey\nAuthor: Ian Bunting\nAuthor: Peter Maassen\nCape Town, South Africa: African Minds, 2011\nhttps://doi.org/10.47622/9781920355807"
+  },
+  {
+    "objectID": "mattering_press.nbconvert.html#april-2022",
+    "href": "mattering_press.nbconvert.html#april-2022",
+    "title": "Mattering Press",
+    "section": "April 2022",
+    "text": "April 2022\n\nConcealing for Freedom: The Making of Encryption, Secure Messaging and Digital Liberties\nAuthor: Francesca Musiani\nAuthor: Ksenia Ermoshina\nForeword_by: Laura DeNardis\nManchester, UK: Mattering Press, 2022\nhttps://doi.org/10.28938/9781912729227\nConcealing for Freedom: The Making of Encryption, Secure Messaging and Digital Liberties sets out to explore one of the core battlegrounds of Internet governance: the encryption of online communications. Current debates around encryption have fundamental implications for our individual liberties and collective presence on the Internet. Encryption of communications at scale and in increasingly usable ways has become a matter of public concern, especially since Edward Snowden’s 2013 revelations. A new cryptographic imaginary is taking hold, which sees encryption as a necessary precondition for the formation of networked publics. At the same time, there have been major evolutions and accelerations in the field of secure communications, prompted in part by the cryptography community’s renewed efforts to create next-generation secure messaging protocols and applications. The book explores developers’ actions and their interactions with other stakeholders, for instance users, security trainers, standardising bodies, and funding organizations. It also examines their interactions with the technical artifacts they develop, in which a core common objective is to create tools that “conceal for freedom” even as how this objective is met differs according to technical architectures, the user publics being targeted and the tools’ underlying values and business models."
+  },
+  {
+    "objectID": "mattering_press.nbconvert.html#november-2021",
+    "href": "mattering_press.nbconvert.html#november-2021",
+    "title": "Mattering Press",
+    "section": "November 2021",
+    "text": "November 2021\n\nEngineering the Climate: Science, Politics and Visions of Control\n\nAuthor: Julia Schubert\nManchester, UK: Mattering Press, 2021\nhttps://doi.org/10.28938/9781912729265\nNotions of the impending climate crisis have pushed a set of highly contested techno-scientific measures onto policy agendas around the world. Suggestions to deliberately alter, to engineer, the Earth’s climate have gained political currency in recent years not as a positive vision of techno-scientific innovation, but as a daunting measure of last resort. The controversial status of various so-called climate engineering proposals raises a simple, yet pressing question: How has it has come to this? And, more specifically, how did such contested measures earn their place on policy agendas, despite enormous scientific complexities and fierce political contestation?"
+  },
+  {
+    "objectID": "mattering_press.nbconvert.html#july-2018",
+    "href": "mattering_press.nbconvert.html#july-2018",
+    "title": "Mattering Press",
+    "section": "July 2018",
+    "text": "July 2018\n\nAn Anthropology of Common Ground: Awkward Encounters in Heritage Work\n\nAuthor: Nathalia Brichet\nManchester: Mattering Press, 2018\nhttps://doi.org/10.28938/9780995527799\nPaying attention to details and ‘small stories’ as that which make worlds (heritage projects as well as ethnography), the book proposes a kind of postcolonial scholarship. Rather than uncovering or building up one story about the Danish-Ghanaian past, the work insists on providing ‘inconclusive’ analyses, collaboratively generated in the course of the project work and in the process of writing ethnographically about it. The ambition is to nurture fieldwork as an opportunity for creating a common ground, on which to think about what heritage and ethnography could be. Common ground, then, is not only an ideal of the joint heritage project, but an expression of an anthropological ambition. In consequence, the book is an account of a particular ethnographic research project – the ‘methods story’ being about how post-colonial relations might be noticed and supported and about how empirical research is done as relations between what is going on in the field and the way that the ethnographer chooses to tell the story of the field in the text."
+  },
+  {
+    "objectID": "media_press.nbconvert.html#january-2023",
+    "href": "media_press.nbconvert.html#january-2023",
+    "title": "mediastudies.press",
+    "section": "January 2023",
+    "text": "January 2023\n\nCreativity: Process and Personality\n\nAuthor: Larry Gross\nBethlehem, PA: mediastudies.press, 2023\nhttps://doi.org/10.32376/3f8575cb.60b97b6f\nCreativity: Process and Personality, a 1964 thesis published for the first time, features interviews on creativity with prominent psychologists, including B. F. Skinner, Herbert Simon, Abraham Maslow, David McClelland, Jerome Bruner, and Milton Rokeach."
+  },
+  {
+    "objectID": "media_press.nbconvert.html#december-2022",
+    "href": "media_press.nbconvert.html#december-2022",
+    "title": "mediastudies.press",
+    "section": "December 2022",
+    "text": "December 2022\n\nCommunication Conduct in an Island Community\n\nAuthor: Erving Goffman\nIntroduction_by: Yves Winkin\nBethlehem, PA: mediastudies.press, 2022\nhttps://doi.org/10.32376/3f8575cb.baaa50af\nErving Goffman’s 1953 dissertation, published here for the first time on the hundredth anniversary of his birth."
+  },
+  {
+    "objectID": "media_press.nbconvert.html#april-2022",
+    "href": "media_press.nbconvert.html#april-2022",
+    "title": "mediastudies.press",
+    "section": "April 2022",
+    "text": "April 2022\n\nWhat Was Artificial Intelligence?\n\nAuthor: Sue Curry Jansen\nBethlehem, PA: mediastudies.press, 2022\nhttps://doi.org/10.32376/3f8575cb.0cc62523\nSue Curry Jansen’s classic critique of AI rhetoric, republished open access with a new introduction by Jansen."
+  },
+  {
+    "objectID": "media_press.nbconvert.html#november-2020",
+    "href": "media_press.nbconvert.html#november-2020",
+    "title": "mediastudies.press",
+    "section": "November 2020",
+    "text": "November 2020\n\nLiberty and the News\n\nAuthor: Walter Lippmann\nIntroduction_by: Sue Curry Jansen\nBethlehem, PA: mediastudies.press, 2020\nhttps://doi.org/10.32376/3f8575cb.2e69e142\nPublished a century ago as the young Walter Lippmann’s fifth book, the slim volume merits a fresh read in our post-truth moment. Republished in this mediastudies.press edition with a new introduction by Sue Curry Jansen."
+  },
+  {
+    "objectID": "media_press.nbconvert.html#october-2020",
+    "href": "media_press.nbconvert.html#october-2020",
+    "title": "mediastudies.press",
+    "section": "October 2020",
+    "text": "October 2020\n\nOur Master’s Voice: Advertising\n\nAuthor: James Rorty\nIntroduction_by: Jefferson Pooley\nBethlehem, PA: mediastudies.press, 2020\nhttps://doi.org/10.21428/3f8575cb.dbba9917\n“I was an ad-man once,” James Rorty writes in this classic dissection of the advertising industry. A neglected masterpiece, the book is republished in this mediastudies.press edition with a new introduction by Jefferson Pooley."
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#no-date",
+    "href": "meson_press.nbconvert.html#no-date",
+    "title": "meson press",
+    "section": "No date",
+    "text": "No date\n\nTechnopharmacology\nAuthor: Joshua Neves\nAuthor: Susanna Paasonen\nAuthor: Aleena Chia\nAuthor: Ravi Sundaram\nhttps://doi.org/10.14619/029-0"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#no-date-1",
+    "href": "meson_press.nbconvert.html#no-date-1",
+    "title": "meson press",
+    "section": "No date",
+    "text": "No date\n\nRemain\n\nAuthor: Jussi Parikka\nAuthor: Ioana B. Jucan\nAuthor: Rebecca Schneider\nhttps://doi.org/10.14619/1495"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#september-2022",
+    "href": "meson_press.nbconvert.html#september-2022",
+    "title": "meson press",
+    "section": "September 2022",
+    "text": "September 2022\n\nGuantánamo Frames\nAuthor: Rebecca Boguska\nLüneburg: meson press eG, 2022\nhttps://doi.org/10.14619/2065\n\n\nNonconscious: On the Affective Synching of Mind and Machine\n\nAuthor: Marie-Luise Angerer\nLüneburg: meson press eG, 2022\nhttps://doi.org/10.14619/2041\nGrowing numbers of nonhuman companions are creating affective synching between human and nonhuman agency. Unlike the unconscious of psychoanalysis, this book argues, the resulting nonconscious is no longer coupled to a subject grounded in language, instead acting as an affective link between technical, mental, and physical processes."
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#june-2022",
+    "href": "meson_press.nbconvert.html#june-2022",
+    "title": "meson press",
+    "section": "June 2022",
+    "text": "June 2022\n\nFahrradutopien: Medien, Ästhetiken und Aktivismus\n\nAuthor: Julia Bee\nAuthor: Ulrike Bergermann\nAuthor: Linda Keck\nAuthor: Sarah Sander\nAuthor: Herbert Schwaab\nAuthor: Markus Stauff\nAuthor: Franzi Wagner\nLüneburg: meson press eG, 2022\nhttps://doi.org/10.14619/1952"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#april-2022",
+    "href": "meson_press.nbconvert.html#april-2022",
+    "title": "meson press",
+    "section": "April 2022",
+    "text": "April 2022\n\nFoucault, digital\nAuthor: Bernhard J. Dotzler\nAuthor: Henning Schmidgen\nLüneburg: meson press eG, 2022\nhttps://doi.org/10.14619/1983"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#march-2022",
+    "href": "meson_press.nbconvert.html#march-2022",
+    "title": "meson press",
+    "section": "March 2022",
+    "text": "March 2022\n\nUexküll’s Surroundings: Umwelt Theory and Right-Wing Thought\n\nAuthor: Gottfried Schnödl\nAuthor: Florian Sprenger\nTranslator: Michael Thomas Taylor\nTranslator: Wayne Yung\nLüneburg: meson press eG, 2022\nhttps://doi.org/10.14619/2010"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#october-2021",
+    "href": "meson_press.nbconvert.html#october-2021",
+    "title": "meson press",
+    "section": "October 2021",
+    "text": "October 2021\n\nUexkülls Umgebungen: Umweltlehre und rechtes Denken\n\nAuthor: Florian Sprenger\nAuthor: Gottfried Schnödl\nLüneburg: meson press eG, 2021\nhttps://doi.org/10.14619/1921\n\n\nMedia and Management\nAuthor: Rutvica Andrijasevic\nAuthor: Julie Yujie Chen\nAuthor: Melissa Gregg\nAuthor: Marc Steinberg\nLüneburg: meson press eG, 2021\nhttps://doi.org/10.14619/028-3"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#july-2021",
+    "href": "meson_press.nbconvert.html#july-2021",
+    "title": "meson press",
+    "section": "July 2021",
+    "text": "July 2021\n\nReally Fake\n\nAuthor: Alexandra Juhasz\nAuthor: Ganaele Langlois\nAuthor: Nishant Shah\nLüneburg: meson press eG, 2021\nhttps://doi.org/10.14619/154-9"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#june-2021",
+    "href": "meson_press.nbconvert.html#june-2021",
+    "title": "meson press",
+    "section": "June 2021",
+    "text": "June 2021\n\nTactical Entanglements: AI Art, Creative Agency, and the Limits of Intellectual Property\n\nAuthor: Martin Zeilinger\nLüneburg: meson press eG, 2021\nhttps://doi.org/10.14619/1839\n\n\nUndoing Networks\nAuthor: Tero Karppi\nAuthor: Urs Stäheli\nAuthor: Clara Wieghorst\nAuthor: Lea P. Zierott\nLüneburg: meson press eG, 2021\nhttps://doi.org/10.14619/153-2"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#may-2021",
+    "href": "meson_press.nbconvert.html#may-2021",
+    "title": "meson press",
+    "section": "May 2021",
+    "text": "May 2021\n\nTouchscreen Archaeology: Tracing Histories of Hands-On Media Practices\n\nAuthor: Wanda Strauven\nLüneburg: meson press eG, 2021\nhttps://doi.org/10.14619/1860"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#march-2021",
+    "href": "meson_press.nbconvert.html#march-2021",
+    "title": "meson press",
+    "section": "March 2021",
+    "text": "March 2021\n\nAesthetic Experience of Metabolic Processes\n\nAuthor: Desiree Förster\nLüneburg: meson press eG, 2021\nhttps://doi.org/10.14619/1808"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#december-2020",
+    "href": "meson_press.nbconvert.html#december-2020",
+    "title": "meson press",
+    "section": "December 2020",
+    "text": "December 2020\n\nHigh Definition: Medienphilosophisches Image Processing\n\nAuthor: Elisa Linseisen\nLüneburg: meson press eG, 2020\nhttps://doi.org/10.14619/1747"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#august-2020",
+    "href": "meson_press.nbconvert.html#august-2020",
+    "title": "meson press",
+    "section": "August 2020",
+    "text": "August 2020\n\nAction at a Distance\nAuthor: Christina Vagt\nAuthor: John Durham Peters\nAuthor: Florian Sprenger\nLüneburg: meson press eG, 2020\nhttps://doi.org/10.14619/152-5"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#december-2019",
+    "href": "meson_press.nbconvert.html#december-2019",
+    "title": "meson press",
+    "section": "December 2019",
+    "text": "December 2019\n\nMedium, Format, Configuration: The Displacements of Film\n\nAuthor: Benoît Turquety\nLüneburg: meson press eG, 2019\nhttps://doi.org/10.14619/0047"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#november-2019",
+    "href": "meson_press.nbconvert.html#november-2019",
+    "title": "meson press",
+    "section": "November 2019",
+    "text": "November 2019\n\nOrganize\n\nAuthor: Timon Beyes\nAuthor: Lisa Conrad\nAuthor: Reinhold Martin\nAfterword_by: Geert Lovink\nAfterword_by: Ned Rossiter\nLüneburg: meson press eG, 2019\nhttps://doi.org/10.14619/1518"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#september-2019",
+    "href": "meson_press.nbconvert.html#september-2019",
+    "title": "meson press",
+    "section": "September 2019",
+    "text": "September 2019\n\nTracks from the Crypt\n\nAuthor: John Mowitt\nIntroduction_by: Vinzenz Hediger\nIntroduction_by: Rebecca Boguska\nLüneburg: meson press eG, 2019\nhttps://doi.org/10.14619/0030\n\n\nBeyond the Flow: Scholarly Publications During and After the Digital\n\nAuthor: Niels-Oliver Walkowski\nLüneburg: meson press eG, 2019\nhttps://doi.org/10.14619/1600"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#august-2019",
+    "href": "meson_press.nbconvert.html#august-2019",
+    "title": "meson press",
+    "section": "August 2019",
+    "text": "August 2019\n\nArchives\n\nAuthor: Andrew Lison\nAuthor: Marcell Mars\nAuthor: Tomislav Medak\nAuthor: Rick Prelinger\nLüneburg: meson press eG, 2019\nhttps://doi.org/10.14619/1501"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#january-2019",
+    "href": "meson_press.nbconvert.html#january-2019",
+    "title": "meson press",
+    "section": "January 2019",
+    "text": "January 2019\n\nMarkets\n\nAuthor: Armin Beverungen\nAuthor: Philip Mirowski\nAuthor: Edward Nik-Khah\nAuthor: Jens Schröter\nLüneburg: meson press eG, 2019\nhttps://doi.org/10.14619/1471\n\n\nCommunication\n\nAuthor: Paula Bialski\nAuthor: Finn Brunton\nAuthor: Mercedes Bunz\nLüneburg: meson press eG, 2019\nhttps://doi.org/10.14619/1464\n\n\nMachine\n\nAuthor: Thomas Patrick Pringle\nAuthor: Gertrud Koch\nAuthor: Bernard Stiegler\nLüneburg: meson press eG, 2019\nhttps://doi.org/10.14619/1488"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#november-2018",
+    "href": "meson_press.nbconvert.html#november-2018",
+    "title": "meson press",
+    "section": "November 2018",
+    "text": "November 2018\n\nFerocious Logics: Unmaking the Algorithm\n\nAuthor: Luke Munn\nLüneburg: meson press eG, 2018\nhttps://doi.org/10.14619/1402\n\n\nPattern Discrimination\n\nAuthor: Hito Steyerl\nAuthor: Wendy Hui Kyong Chun\nAuthor: Clemens Apprich\nAuthor: Florian Cramer\nLüneburg: meson press eG, 2018\nhttps://doi.org/10.14619/1457"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#april-2018",
+    "href": "meson_press.nbconvert.html#april-2018",
+    "title": "meson press",
+    "section": "April 2018",
+    "text": "April 2018\n\nÖkologien der Erde: Zur Wissensgeschichte und Aktualität der Gaia-Hypothese\n\nAuthor: Alexander Friedrich\nAuthor: Petra Löffler\nAuthor: Niklas Schrape\nAuthor: Florian Sprenger\nLüneburg: meson press eG, 2018\nhttps://doi.org/10.14619/1204"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#january-2018",
+    "href": "meson_press.nbconvert.html#january-2018",
+    "title": "meson press",
+    "section": "January 2018",
+    "text": "January 2018\n\nVon Open Access zu Open Science: Zum Wandel digitaler Kulturen der wissenschaftlichen Kommunikation\n\nAuthor: Christian Heise\nLüneburg: meson press eG, 2018\nhttps://doi.org/10.14619/1303"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#may-2017",
+    "href": "meson_press.nbconvert.html#may-2017",
+    "title": "meson press",
+    "section": "May 2017",
+    "text": "May 2017\n\nAffektökologie: Intensive Milieus und zufällige Begegnungen\n\nAuthor: Marie-Luise Angerer\nLüneburg: meson press eG, 2017\nhttps://doi.org/10.14619/019\n\n\nEcology of Affect: Intensive Milieus and Contingent Encounters\n\nAuthor: Marie-Luise Angerer\nTranslator: Gerrit Jackson\nLüneburg: meson press eG, 2017\nhttps://doi.org/10.14619/020"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#july-2016",
+    "href": "meson_press.nbconvert.html#july-2016",
+    "title": "meson press",
+    "section": "July 2016",
+    "text": "July 2016\n\nTrick 17: Mediengeschichten zwischen Zauberkunst und Wissenschaft\n\nAuthor: Sebastian Vehlken\nAuthor: Katja Müller-Helle\nAuthor: Jan Müggenburg\nAuthor: Florian Sprenger\nLüneburg: meson press eG, 2016\nhttps://doi.org/10.14619/017"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#october-2015",
+    "href": "meson_press.nbconvert.html#october-2015",
+    "title": "meson press",
+    "section": "October 2015",
+    "text": "October 2015\n\nCitizen Lobby: From Capacity to Influence\n\nAuthor: Leif Thomas Olsen\nLüneburg: meson press eG, 2015\nhttps://doi.org/10.14619/010"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#july-2015",
+    "href": "meson_press.nbconvert.html#july-2015",
+    "title": "meson press",
+    "section": "July 2015",
+    "text": "July 2015\n\nLibrary Life: Werkstätten kulturwissenschaftlichen Forschens\n\nAuthor: Laura Meneghello\nAuthor: Friedolin Krentel\nAuthor: Anna Rebecca Hoffmann\nAuthor: Katja Barthel\nAuthor: Sebastian Brand\nAuthor: Alexander Friedrich\nAuthor: Jennifer Ch. Müller\nAuthor: Christian Wilke\nLüneburg: meson press eG, 2015\nhttps://doi.org/10.14619/006\n\n\nIntroduction to a Future Way of Thought: On Marx and Heidegger\n\nAuthor: Kostas Axelos\nEditor: Stuart Elden\nTranslator: Kenneth Mills\nLüneburg: meson press eG, 2015\nhttps://doi.org/10.14619/009\n\n\nThe Political Structure of UK Broadcasting 1949–1999\n\nAuthor: David Elstein\nLüneburg: meson press eG, 2015\nhttps://doi.org/10.14619/011\n\n\nLife and Technology: An Inquiry Into and Beyond Simondon\n\nAuthor: Jean-Hugues Barthélémy\nTranslator: Barnaby Norman\nLüneburg: meson press eG, 2015\nhttps://doi.org/10.14619/015"
+  },
+  {
+    "objectID": "meson_press.nbconvert.html#june-2015",
+    "href": "meson_press.nbconvert.html#june-2015",
+    "title": "meson press",
+    "section": "June 2015",
+    "text": "June 2015\n\nThe Cyborg: A Treatise on the Artificial Man\n\nAuthor: Antonio Caronia\nTranslator: Robert Booth\nLüneburg: meson press eG, 2015\nhttps://doi.org/10.14619/007\n\n\nThe Politics of Micro-Decisions: Edward Snowden, Net Neutrality, and the Architectures of the Internet\n\nAuthor: Florian Sprenger\nTranslator: Valentine A. Pakis\nForeword_by: Christopher Kelty\nLüneburg: meson press eG, 2015\nhttps://doi.org/10.14619/005\n\n\nPolitik der Mikroentscheidungen: Edward Snowden, Netzneutralität und die Architekturen des Internets\n\nAuthor: Florian Sprenger\nForeword_by: Christopher Kelty\nLüneburg: meson press eG, 2015\nhttps://doi.org/10.14619/004\n\n\nDie verschiedenen Modi der Existenz\n\nAuthor: Étienne Souriau\nTranslator: Thomas Wäckerle\nLüneburg: meson press eG, 2015\nhttps://doi.org/10.14619/003"
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#february-2023",
+    "href": "obp_press.nbconvert.html#february-2023",
+    "title": "Open Book Publishers",
+    "section": "February 2023",
+    "text": "February 2023\n\nDire Straits-Education Reforms: Ideology, Vested Interests and Evidence\n\nAuthor: José Ignacio Wert\nAuthor: Montserrat Gomendio\nCambridge, UK: Open Book Publishers, 2023\nhttps://doi.org/10.11647/OBP.0332\nResponding to an ‘educational emergency’ generated largely by the difficulties of implementing education reforms, this book compares education policies around the world in order to understand what works where. To address the key question of why education reforms are so difficult, the authors take into account a broad range of relevant factors, such as governance, ideology, and stakeholder conflicts of interest, and their interactions with one another.\n\n\nThe Historical Depth of the Tiberian Reading Tradition of Biblical Hebrew\n\nAuthor: Aaron D. Hornkohl\nCambridge, UK: Open Book Publishers, 2023\nhttps://doi.org/10.11647/OBP.0310\nThis volume explores an underappreciated feature of the standard Tiberian Masoretic tradition of Biblical Hebrew, namely its composite nature. Focusing on cases of dissonance between the tradition’s written (consonantal) and reading (vocalic) components, the study shows that the Tiberian spelling and pronunciation traditions, though related, interdependent, and largely in harmony, at numerous points reflect distinct oral realisations of the biblical text."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#january-2023",
+    "href": "obp_press.nbconvert.html#january-2023",
+    "title": "Open Book Publishers",
+    "section": "January 2023",
+    "text": "January 2023\n\nReshaping Food Systems to improve Nutrition and Health in the Eastern Mediterranean Region\n\nAuthor: Ayoub Al-Jawaldeh\nAuthor: Alexa Meyer\nCambridge, UK: Open Book Publishers, 2023\nhttps://doi.org/10.11647/OBP.0322\nThis detailed and comprehensive study examines nutrition and health in the World Health Organization (WHO) Eastern Mediterranean Region, presenting the six game-changing food systems actions proposed by the WHO and the progress of their implementation in the region."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#december-2022",
+    "href": "obp_press.nbconvert.html#december-2022",
+    "title": "Open Book Publishers",
+    "section": "December 2022",
+    "text": "December 2022\n\nChance Encounters: A Bioethics for a Damaged Planet\n\nAuthor: Kristien Hens\nIllustrator: Christina Stadlbauer\nIllustrator: Bart H.M. Vandeput\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0320\nIn this rigorous and necessary book, Kristien Hens brings together bioethics and the philosophy of biology to argue that it is ethically necessary for scientific research to include a place for the philosopher. As well as ethical, their role is conceptual: they can improve the quality and coherence of scientific research by ensuring that particular concepts are used consistently and thoughtfully across interdisciplinary projects. Hens argues that chance and uncertainty play a central part in bioethics, but that these qualities can be in tension with the attempt to establish a given theory as scientific knowledge: in describing organisms and practices, in a sense we create the world. Hens contends that this is necessarily an ethical activity.\n\n\nMusic in Evolution and Evolution in Music\n\nAuthor: Steven Jan\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0301\nMusic in Evolution and Evolution in Music by Steven Jan is a comprehensive account of the relationships between evolutionary theory and music. Examining the ‘evolutionary algorithm’ that drives biological and musical-cultural evolution, the book provides a distinctive commentary on how musicality and music can shed light on our understanding of Darwin’s famous theory – and vice-versa.\n\n\nWilliam Rimmer: Champion of Imagination in American Art\n\nAuthor: Dorinda Evans\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0304\nWilliam Rimmer (1816–1879) is arguably the first modernist American sculptor, although his inventive originality has not been fully acknowledged. Rimmer cultivated an art of ideas and personal expression whilst supporting himself as a physician and, later, as a teacher of art anatomy at the Cooper Union School of Design for Women in New York."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#november-2022",
+    "href": "obp_press.nbconvert.html#november-2022",
+    "title": "Open Book Publishers",
+    "section": "November 2022",
+    "text": "November 2022\n\nEngaging with Everyday Sounds\n\nAuthor: Marcel Cobussen\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0288\n‘Engaging With Everyday Sounds’ is a rich and inspiring exploration of the role of sounds in everyday life, including their impact on human actions, emotions, and imagination. Marcel Cobussen intertwines sonic studies with philosophy, sound art, sociology and more to create an impressively lucid and innovative guide to sonic materialism, calling for a re-sensitization to our acoustic environment and arguing that everyday sounds have (micro)political, social, and ethical impact to which we should attend.\n\n\nThe Bible in the Bowls: A Catalogue of Biblical Quotations in Published Jewish Babylonian Aramaic Magic Bowls\n\nAuthor: Daniel James Waller\nContributions_by: Dorota Molin\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0305\nThe Bible in the Bowls represents a complete catalogue of Hebrew Bible quotations found in the published corpus of Jewish Babylonian Aramaic magic bowls. As our only direct epigraphic witnesses to the Hebrew Bible from late antique Babylonia, the bowls are uniquely placed to contribute to research on the (oral) transmission of the biblical text in late antiquity; the pre-Masoretic Babylonian vocalisation tradition; the formation of the liturgy and the early development of the Jewish prayer book; the social locations of biblical knowledge in late antique Babylonia and socio-religious typologies of the bowls; and the dynamics of scriptural citation in ancient Jewish magic."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#october-2022",
+    "href": "obp_press.nbconvert.html#october-2022",
+    "title": "Open Book Publishers",
+    "section": "October 2022",
+    "text": "October 2022\n\n‘Fragile States’ in an Unequal World: The Role of the g7+ in International Diplomacy and Development Cooperation\n\nAuthor: Isabel Rocha de Siqueira\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0311\nThis is a book about people. ‘Fragile States’ in an Unequal World: The Role of the g7+ in International Diplomacy and Development Cooperation introduces the members of the g7+, a group formed by 20 conflict-affected states: why they came to believe in politics and policy; how they feel about their work, their family and their communities; and what they want to leave behind for the next generations. It is the story of their personal and collective values, their mistakes, and the challenges they faced, and it will resonate with anyone who has tried to organize and work with a group of very different people.\n\n\nDiachronic Variation in the Omani Arabic Vernacular of the Al-ʿAwābī District: From Carl Reinhardt (1894) to the Present Day\n\nAuthor: Roberta Morano\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0298\nIn this monograph, Roberta Morano re-examines one of the foundational works of the Omani Arabic dialectology field, Carl Reinhardt’s Ein arabischer Dialekt gesprochen in ’Oman und Zanzibar (1894). This German-authored work was prolific in shaping our knowledge of Omani Arabic during the twentieth century, until the 1980s when more recent linguistic studies on the Arabic varieties spoken in Oman began to appear.\n\n\nThe Official Indonesian Qurʾān Translation: The History and Politics of Al-Qur’an dan Terjemahnya\n\nAuthor: Fadhli Lukman\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0289\nThis book studies the political and institutional project of Al-Qur’an dan Terjemahnya, the official translation of the Qurʾān into Indonesian by the Indonesian government. It investigates how the translation was produced and presented, and how it is read, as well as considering the implications of the state’s involvement in such a work."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#september-2022",
+    "href": "obp_press.nbconvert.html#september-2022",
+    "title": "Open Book Publishers",
+    "section": "September 2022",
+    "text": "September 2022\n\nAn Outline of Romanticism in the West\n\nAuthor: John Claiborne Isbell\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0302\nNavigating the landscape of Romantic literature and art across Europe and the Americas, An Outline of Romanticism in the West invites readers to embark upon a literary journey. Showcasing a breadth of theoretical and contextual approaches to the study of Romanticism, John Isbell provides an insightful contemporary overview of the field, paired with wide-ranging comparative reflections on the art and literature that helped shape it."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#august-2022",
+    "href": "obp_press.nbconvert.html#august-2022",
+    "title": "Open Book Publishers",
+    "section": "August 2022",
+    "text": "August 2022\n\nThe Classical Parthenon: Recovering the Strangeness of the Ancient World\n\nAuthor: William St Clair\nEditor: Lucy Barnes\nEditor: David St Clair\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0279\nComplementing Who Saved the Parthenon? this companion volume sets aside more recent narratives surrounding the Athenian Acropolis, supposedly ‘the very symbol of democracy itself’, instead asking if we can truly access an ancient past imputed with modern meaning. And, if so, how?\n\n\nSecond Chance: My Life in Things\n\nAuthor: Ruth Rosengarten\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0285\nIn this intimate memoir, Ruth Rosengarten explores the subject of evocative objects through a series of interconnected essays.\n\n\nSefer ha-Pardes by Jedaiah ha-Penini: A Critical Edition with English Translation\n\nAuthor: David Torollo\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0299\nThis groundbreaking new work is the first full critical edition and English translation of the Hebrew book Sefer ha-Pardes [The Book of the Orchard], written at the end of the thirteenth century by the Provençal Jewish author Jedaiah ha-Penini."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#july-2022",
+    "href": "obp_press.nbconvert.html#july-2022",
+    "title": "Open Book Publishers",
+    "section": "July 2022",
+    "text": "July 2022\n\nReading the Juggler of Notre Dame: Medieval Miracles and Modern Remakings\n\nAuthor: Jan M. Ziolkowski\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0284\nIn this two-part anthology, Jan M. Ziolkowski builds on themes uncovered in his earlier The Juggler of Notre Dame and the Medievalizing of Modernity. Here he focuses particularly on the performing arts.\n\n\nThe Power of Music: An Exploration of the Evidence\n\nAuthor: Susan Hallam\nAuthor: Evangelos Himonides\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0292\nBuilding on her earlier work, ‘The Power of Music: A Research Synthesis of the Impact of Actively Making Music on the Intellectual, Social and Personal Development of Children and Young People’, this volume by Susan Hallam and Evangelos Himonides is an important new resource in the field of music education, practice, and psychology."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#june-2022",
+    "href": "obp_press.nbconvert.html#june-2022",
+    "title": "Open Book Publishers",
+    "section": "June 2022",
+    "text": "June 2022\n\nNeo-Aramaic and Kurdish Folklore from Northern Iraq: A Comparative Anthology with a Sample of Glossed Texts, Volume 2\n\nAuthor: Geoffrey Khan\nAuthor: Paul M. Noorlander\nAuthor: Masoud Mohammadirad\nAuthor: Dorota Molin\nContributions_by: Lourd Habeeb Hanna\nContributions_by: Aziz Emmanuel Eliya Al-Zebari\nContributions_by: Salim Abraham\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0307\nThis comparative anthology showcases the rich and mutually intertwined folklore of three ethno-religious communities from northern Iraq: Aramaic-speaking (‘Syriac’) Christians, Kurdish Muslims and—to a lesser extent—Aramaic-speaking Jews.\n\n\nNeo-Aramaic and Kurdish Folklore from Northern Iraq: A Comparative Anthology with a Sample of Glossed Texts, Volume 1\n\nAuthor: Geoffrey Khan\nAuthor: Dorota Molin\nAuthor: Masoud Mohammadirad\nAuthor: Paul M. Noorlander\nContributions_by: Lourd Habeeb Hanna\nContributions_by: Aziz Emmanuel Eliya Al-Zebari\nContributions_by: Salim Abraham\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0306\nThis comparative anthology showcases the rich and mutually intertwined folklore of three ethno-religious communities from northern Iraq: Aramaic-speaking (‘Syriac’) Christians, Kurdish Muslims and—to a lesser extent—Aramaic-speaking Jews.\n\n\nThe Merger Mystery: Why Spend Ever More on Mergers When So Many Fail?\n\nAuthor: Geoff Meeks\nAuthor: J. Gay Meeks\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0309\nDrawing on findings from a wealth of statistical analyses and case evidence from many businesses, the book presents answers to this merger mystery. In a synthesis of ideas from several disciplines, solutions are detected in misaligned incentives, distorted financial engineering and information asymmetry. By revealing how weaknesses at multiple points can interact and cumulate to produce inefficient outcomes, the discussion serves as a corrective to the overwhelmingly positive tone of most commentary on M&A, whilst also advocating changes in participants’ contracts, in taxation, and in regulation which could significantly reduce the number of mergers that fail."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#may-2022",
+    "href": "obp_press.nbconvert.html#may-2022",
+    "title": "Open Book Publishers",
+    "section": "May 2022",
+    "text": "May 2022\n\nPerforming Deception: Learning, Skill and the Art of Conjuring\n\nAuthor: Brian Rappert\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0295\nIn Performing Deception, Brian Rappert reconstructs the practice of entertainment magic by analysing it through the lens of perception, deception and learning, as he goes about studying conjuring himself.\n\n\nWho Saved the Parthenon?: A New History of the Acropolis Before, During and After the Greek Revolution\n\nAuthor: William St Clair\nEditor: David St Clair\nEditor: Lucy Barnes\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0136\nIn this magisterial book, William St Clair unfolds the history of the Parthenon throughout the modern era to the present day, with special emphasis on the period before, during, and after the Greek War of Independence of 1821–32."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#april-2022",
+    "href": "obp_press.nbconvert.html#april-2022",
+    "title": "Open Book Publishers",
+    "section": "April 2022",
+    "text": "April 2022\n\nThe Voice of the Century: The Culture of Italian Bel Canto in Luisa Tetrazzini’s Recorded Interpretations\n\nAuthor: Massimo Zicari\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0277\nThis innovative work considers the notion of bel canto and the manner in which this vibrant tradition lives in the records of Luisa Tetrazzini (1871-1940), one of the most celebrated sopranos ever. Tetrazzini, whose discographic career includes about 120 recordings, belongs to that generation of inspirational performers who heralded the dawn of a new era of music appreciation, alongside such iconic figures as Enrico Caruso, Adelina Patti and Nellie Melba.\n\n\nA Philosophy of Cover Songs\n\nAuthor: P.D. Magnus\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0293\nIn A Philosophy of Cover Songs, P.D. Magnus demonstrates that philosophy provides a valuable toolbox for thinking about covers; in turn, the philosophy of cover songs illustrates some general points about philosophical method.\n\n\nEcocene Politics\n\nAuthor: Mihnea Tănăsescu\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0274\nAnchored in the diverse ecological practices of communities in southern Italy and Aotearoa/New Zealand, this book devises a unique and considered theoretical response to the shortcomings of global politics in the Ecocene—a new temporal epoch characterised by the increasingly frequent intrusion of ecological processes into political life."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#march-2022",
+    "href": "obp_press.nbconvert.html#march-2022",
+    "title": "Open Book Publishers",
+    "section": "March 2022",
+    "text": "March 2022\n\nA Short History of Transport in Japan from Ancient Times to the Present\n\nAuthor: John Andrew Black\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0281\nA Short History of Transport in Japan from Ancient Times to the Present is a unique study: the first by a Western scholar to place the long-term development of Japanese infrastructure alongside an analysis of its evolving political economy."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#february-2022",
+    "href": "obp_press.nbconvert.html#february-2022",
+    "title": "Open Book Publishers",
+    "section": "February 2022",
+    "text": "February 2022\n\nWilliam Sharp and “Fiona Macleod”: A Life\n\nAuthor: William F. Halloran\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0276\nDrawing extensively on his letters, his wife Elizabeth Sharp’s Memoir, and accounts by friends and associates, this biography provides a lucid and intimate account of William Sharp’s life, from his rejection of the dour religion of his Scottish boyhood, his turn to spiritualism, to his role in the Scottish Celtic Revival in the mid-nineties.\n\n\nThe Neo-Aramaic Oral Heritage of the Jews of Zakho\n\nAuthor: Oz Aloni\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0272\nAloni focuses on three genres of the Zakho community’s oral heritage: the proverb, the enriched biblical narrative and the folktale.\n\n\nReplanteando la acción social por la música: la búsqueda de la convivencia y la ciudadanía en la Red de Escuelas de Música de Medellín\n\nAuthor: Geoffrey Baker\nTranslator: Claudia García\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0263\nEste libro pionero examina el desarrollo de La Red de Escuelas de Música de Medellín, una red de 27 escuelas fundada en 1996 en la segunda ciudad principal de Colombia como respuesta a su reputación como la ciudad más peligrosa en la Tierra. Inspirada en El Sistema, el programa venezolano fundacional de educación musical, La Red es, no obstante, notablemente diferente: su historia es una de múltiples reinvenciones y de una búsqueda continua para mejorar su oferta educativa y alcanzar mejor sus objetivos sociales. Sus reflexiones internas e intentos de transformación arrojan luz valiosa sobre el pasado, el presente y el futuro de ASPM."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#january-2022",
+    "href": "obp_press.nbconvert.html#january-2022",
+    "title": "Open Book Publishers",
+    "section": "January 2022",
+    "text": "January 2022\n\nDemocratising Participatory Research: Pathways to Social Justice from the South\n\nAuthor: Carmen Martinez-Vargas\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0273\nIn this book Carmen Martinez-Vargas explores how academic participatory research and the way it is carried out can contribute to more, or less, social justice. Adopting theoretical and empirical approaches, and addressing multiple complex, intersectional issues, this book offers inspiration for scholars and practitioners to open up alternative pathways to social justice, viewed through a Global South lens.\n\n\nHoros: Ancient Boundaries and the Ecology of Stone\n\nAuthor: Thea Potter\nCambridge, UK: Open Book Publishers, 2022\nhttps://doi.org/10.11647/OBP.0266\nIn Horos, Thea Potter explores the complex relationship between classical philosophy and the ‘horos’, a stone that Athenians erected to mark the boundaries of their marketplace, their gravestones, their roads and their private property.Potter weaves this history into a meditation on the ancient philosophical concept of horos, the foundational project of determination and definition, arguing that it is central to the development of classical philosophy and the marketplace."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#december-2021",
+    "href": "obp_press.nbconvert.html#december-2021",
+    "title": "Open Book Publishers",
+    "section": "December 2021",
+    "text": "December 2021\n\nMaking the Void Fruitful: Yeats as Spiritual Seeker and Petrarchan Lover\n\nAuthor: Patrick J. Keane\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0275\nShedding fresh light on the life and work of William Butler Yeats—widely acclaimed as the major English-language poet of the twentieth century—this new study by leading scholar Patrick J. Keane questions established understandings of the Irish poet’s long fascination with the occult: a fixation that repelled literary contemporaries T.S. Eliot and W.H. Auden, but which enhanced Yeats’s vision of life and death.\n\n\nPoints of Contact: The Shared Intellectual History of Vocalisation in Syriac, Arabic, and Hebrew\n\nAuthor: Nick Posegay\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0271\nThis book investigates the theories behind Semitic vocalisation and vowel phonology in the early medieval Middle East, tracing their evolution to identify points of intellectual contact between Syriac, Arabic, and Hebrew linguists before the twelfth century.\n\n\nMary Warnock: Ethics, Education and Public Policy in Post-War Britain\n\nAuthor: Philip Graham\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0278\nThis biography illuminates the life and thought of Baroness Mary Warnock, whose active years spanned the second half of the twentieth century, a period during which opportunities for middle-class women rapidly and vastly improved.\n\n\nAuld Lang Syne: A Song and its Culture\n\nAuthor: Morag Josephine Grant\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0231\nIn Auld Lang Syne: A Song and its Culture, M. J. Grant explores the history of this iconic song, demonstrating how its association with ideas of fellowship, friendship and sociality has enabled it to become so significant for such a wide range of individuals and communities around the world.\n\n\nCoping: A Philosophical Guide\n\nAuthor: Luc Bovens\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0268\nCoping and Philosophy is a collection of philosophical essays on how we deal with life’s challenges. We hope for better times, but what is hope and is it a good thing to hope? How do we look back and make sense of our lives in the face of death? What is the nature of love and how do we deal with its hardships? What makes for a genuine apology and is there too much or too little apologizing in this world? Can we effect changes in ourselves to adapt to our circumstances? And how can we sense of all the counsel that people have: be grateful, don’t cry over spilled milk, eat well, …"
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#november-2021",
+    "href": "obp_press.nbconvert.html#november-2021",
+    "title": "Open Book Publishers",
+    "section": "November 2021",
+    "text": "November 2021\n\nEpidicus by Plautus: An Annotated Latin Text, with a Prose Translation\n\nAuthor: Catherine Tracy\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0269\nEpidicus, a light-hearted comedy by Plautus about the machinations of a trickster slave and the inadequacies of his bumbling masters, appears here in both its original Latin and a sparkling new translation by Catherine Tracy. Epidicus, the cunning slave, is charged with finding his master’s illegitimate daughter and the secret girlfriend of his master’s son, but a comedy of mistaken identities and competing interests ensues. Amid the mayhem, Epidicus aims to win his freedom whilst risking some of the grislier punishments the Romans inflicted on their unfortunate slaves.\n\n\nDocumentary Making for Digital Humanists\n\nAuthor: Darren R. Reid\nAuthor: Brett Sanders\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0255\nDocumentary Making for Digital Humanists sets out the fundamentals of filmmaking, explores academic discourse on digital documentaries and online distribution, and considers the place of this discourse in the evolving academic landscape.\n\n\nForms of Life and Subjectivity: Rethinking Sartre’s Philosophy\n\nAuthor: Daniel Rueda Garrido\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0259\n‘Forms of Life and Subjectivity: Rethinking Sartre’s Philosophy’ explores the fundamental question of why we act as we do. Informed by an ontological and phenomenological approach, and building mainly, but not exclusively, on the thought of Sartre, Daniel Rueda Garrido considers the concept of a “form of life” as a term that bridges the gap between subjective identity and communities."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#october-2021",
+    "href": "obp_press.nbconvert.html#october-2021",
+    "title": "Open Book Publishers",
+    "section": "October 2021",
+    "text": "October 2021\n\nAncient Greek I: A 21st Century Approach\n\nAuthor: Philip S. Peek\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0264\nIn this elementary textbook, Philip S. Peek draws on his twenty-five years of teaching experience to present the ancient Greek language in an imaginative and accessible way that promotes creativity, deep learning, and diversity."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#august-2021",
+    "href": "obp_press.nbconvert.html#august-2021",
+    "title": "Open Book Publishers",
+    "section": "August 2021",
+    "text": "August 2021\n\nFrom Goethe to Gundolf: Essays on German Literature and Culture\n\nAuthor: Roger Paulin\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0258\nFrom Goethe to Gundolf: Essays on German Literature and Culture is a collection of Roger Paulin’s groundbreaking essays, spanning the last forty years."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#july-2021",
+    "href": "obp_press.nbconvert.html#july-2021",
+    "title": "Open Book Publishers",
+    "section": "July 2021",
+    "text": "July 2021\n\nTowards an Ethics of Autism: A Philosophical Exploration\n\nAuthor: Kristien Hens\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0261\nWhat does it mean to say that someone is autistic? Dynamics of Autism is an exploration of this question and many more."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#june-2021",
+    "href": "obp_press.nbconvert.html#june-2021",
+    "title": "Open Book Publishers",
+    "section": "June 2021",
+    "text": "June 2021\n\nTechnology, Media Literacy, and the Human Subject: A Posthuman Approach\n\nAuthor: Richard S. Lewis\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0253\nThis book addresses these issues by providing a transdisciplinary method that allows for both practical and theoretical analyses of media investigations. Informed by postphenomenology, media ecology, philosophical posthumanism, and complexity theory the author proposes both a framework and a pragmatic instrument for understanding the multiplicity of relations that all contribute to how we affect—and are affected by—our relations with media technology."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#may-2021",
+    "href": "obp_press.nbconvert.html#may-2021",
+    "title": "Open Book Publishers",
+    "section": "May 2021",
+    "text": "May 2021\n\nOn the Literature and Thought of the German Classical Era: Collected Essays\n\nAuthor: Hugh Barr Nisbet\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0180\nThis elegant collection of essays ranges across eighteenth and nineteenth-century thought, covering philosophy, science, literature and religion in the ‘Age of Goethe.’ A recognised authority in the field, Nisbet grapples with the major voices of the Enlightenment and gives pride of place to the figures of Lessing, Herder, Goethe and Schiller.\n\n\nA Victorian Curate: A Study of the Life and Career of the Rev. Dr John Hunt\n\nAuthor: David Yeandle\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0248\n‘A Victorian Curate: A Study of the Life and Career of the Rev. Dr John Hunt’ is an absorbing personal account of the corruption and turmoil in the Church of England at this time. It will appeal to anyone interested in this history, the relationship between science and religion in the nineteenth century, or the role of the curate in Victorian England."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#april-2021",
+    "href": "obp_press.nbconvert.html#april-2021",
+    "title": "Open Book Publishers",
+    "section": "April 2021",
+    "text": "April 2021\n\nRethinking Social Action through Music: The Search for Coexistence and Citizenship in Medellín’s Music Schools\n\nAuthor: Geoffrey Baker\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0243\nHow can we better understand the past, present and future of Social Action through Music (SATM)? This ground-breaking book examines the development of the Red de Escuelas de Música de Medellín (the Network of Music Schools of Medellín), a network of 27 schools founded in Colombia’s second city in 1996 as a response to its reputation as the most dangerous city on Earth."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#march-2021",
+    "href": "obp_press.nbconvert.html#march-2021",
+    "title": "Open Book Publishers",
+    "section": "March 2021",
+    "text": "March 2021\n\nMiddlemarch: Epigraphs and Mirrors\n\nAuthor: Adam Roberts\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0249\nIn Middlemarch, George Eliot draws a character passionately absorbed by abstruse allusion and obscure epigraphs. Casaubon’s obsession is a cautionary tale, but Adam Roberts nonetheless sees in him an invitation to take Eliot’s use of epigraphy and allusion seriously, and this book is an attempt to do just that."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#february-2021",
+    "href": "obp_press.nbconvert.html#february-2021",
+    "title": "Open Book Publishers",
+    "section": "February 2021",
+    "text": "February 2021\n\nLike Nobody’s Business: An Insider’s Guide to How US University Finances Really Work\n\nAuthor: Andrew C. Comrie\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0240\nGrounded in hard data, original analyses, and the practical experience of a seasoned administrator, this book provides refreshingly clear answers and comprehensive insights for anyone on or off campus who is interested in the business of the university: how it earns its money, how it spends it, and how it all works."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#january-2021",
+    "href": "obp_press.nbconvert.html#january-2021",
+    "title": "Open Book Publishers",
+    "section": "January 2021",
+    "text": "January 2021\n\nThe Marvels Found in the Great Cities and in the Seas and on the Islands: A Representative of ’Aǧā’ib Literature in Syriac\n\nTranslator: Sergey Minov\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0237\nThis volume presents the original text, accompanied by an English translation and commentary, of a hitherto unpublished Syriac composition, entitled the Marvels Found in the Great Cities and in the Seas and on the Islands.\n\n\n‘The Philosophes’ by Charles Palissot\n\nEditor: Jessica Goodman\nEditor: Olivier Ferret\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0201\nThis masterful and highly accessible translation of Les Philosophes opens up this polemical text to a non-specialist audience. It will be a valuable resource to non-Francophone scholars and students working on the philosophical exchanges of the Enlightenment.\n\n\nThe Image of Africa in Ghana’s Press: The Influence of Global News Organisations\n\nAuthor: Michael Serwornoo\nCambridge, UK: Open Book Publishers, 2021\nhttps://doi.org/10.11647/OBP.0227\nThe Image of Africa in Ghana’s Press is a comprehensive and highly analytical study of the impact of foreign news organisations on the creation of an image of Africa in its own press. Identifying a problematic focus on the Western media in previous studies of the African media image, Serwornoo uses the Ghanaian press as a case study to explore the effects of centuries of Afro-pessimistic discourse in the foreign press on the continent’s self-description."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#december-2020",
+    "href": "obp_press.nbconvert.html#december-2020",
+    "title": "Open Book Publishers",
+    "section": "December 2020",
+    "text": "December 2020\n\nTerrestrial Mammal Conservation: Global Evidence for the Effects of Interventions for Terrestrial Mammals Excluding Bats and Primates\n\nAuthor: Nick A. Littlewood\nAuthor: Ricardo Rocha\nAuthor: Rebecca K. Smith\nAuthor: Philip A. Martin\nAuthor: Sarah L. Lockhart\nAuthor: Rebecca F. Schoonover\nCambridge, UK: Open Book Publishers, 2020\nhttps://doi.org/10.11647/OBP.0234\nTerrestrial Mammal Conservation provides a thorough summary of the available scientific evidence of what is known, or not known, about the effectiveness of all of the conservation actions for wild terrestrial mammals across the world (excluding bats and primates, which are covered in separate synopses).\n\n\nMendl Mann’s ‘The Fall of Berlin’\n\nTranslator: Maurice Wolfthal\nCambridge, UK: Open Book Publishers, 2020\nhttps://doi.org/10.11647/OBP.0233\nMendl Mann’s autobiographical novel The Fall of Berlin tells the painful yet compelling story of life as a Jewish soldier in the Red Army. Menakhem Isaacovich is a Polish Jew who, after fleeing the Nazis, finds refuge in the USSR. Translated into English from the original Yiddish by Maurice Wolfthal, the narrative follows Menakhem as he fights on the front line in Stalin’s Red Army against Hitler and the Nazis who are destroying his homeland of Poland and exterminating the Jews."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#november-2020",
+    "href": "obp_press.nbconvert.html#november-2020",
+    "title": "Open Book Publishers",
+    "section": "November 2020",
+    "text": "November 2020\n\nMaria Stuart\n\nTranslator: Flora Kimmich\nIntroduction_by: Roger Paulin\nCambridge, UK: Open Book Publishers, 2020\nhttps://doi.org/10.11647/OBP.0217\nFlora Kimmich’s new translation carefully preserves the spirit of the original: the pathos and passion of Mary in captivity, the high seriousness of Elizabeth’s ministers in council, and the robust comedy of that queen’s untidy private life. Notes to the text identify the many historical figures who appear in the text, describe the political setting of the action, and draw attention to the structure of the play.\n\n\nThe Atheist’s Bible: Diderot’s ‘Éléments de physiologie’\n\nAuthor: Caroline Warman\nCambridge, UK: Open Book Publishers, 2020\nhttps://doi.org/10.11647/OBP.0199\nThe Atheist’s Bible challenges prevailing scholarly views on Diderot’s Éléments, asserting its contemporary philosophical importance, and prompting its readers to inspect more closely this little-known and little-studied work. This book is accompanied by a digital edition of Jacques-André Naigeon’s Mémoires historiques et philosophiques sur la vie et les ouvrages de Denis Diderot (1823), a work which, Warman argues, represents the first publication of Diderot’s Éléments, long before its official publication date of 1875."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#october-2020",
+    "href": "obp_press.nbconvert.html#october-2020",
+    "title": "Open Book Publishers",
+    "section": "October 2020",
+    "text": "October 2020\n\nB C, Before Computers: On Information Technology from Writing to the Age of Digital Data\n\nAuthor: Stephen Robertson\nCambridge, UK: Open Book Publishers, 2020\nhttps://doi.org/10.11647/OBP.0225\nTreading the line between philosophy and technical history, Robertson draws on his extensive technical knowledge to produce a text which is both thought-provoking and accessible to a wide range of readers."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#september-2020",
+    "href": "obp_press.nbconvert.html#september-2020",
+    "title": "Open Book Publishers",
+    "section": "September 2020",
+    "text": "September 2020\n\nThe Bavarian Commentary and Ovid: Clm 4610, The Earliest Documented Commentary on the ‘Metamorphoses’\n\nAuthor: Robin Wahlsten Böckerman\nCambridge, UK: Open Book Publishers, 2020\nhttps://doi.org/10.11647/OBP.0154\nThe Bavarian Commentary and Ovid is the first complete critical edition and translation of the earliest preserved commentary on Ovid’s Metamorphoses.\n\n\nThe Life and Letters of William Sharp and “Fiona Macleod”: Volume 3: 1900-1905\n<img src=“https://cdn.openbookpublishers.com/covers/10.11647/obp.0221.jpg” alt=“cover for The Life and Letters of William Sharp and”Fiona Macleod”: Volume 3: 1900-1905” width=“300”/>\nAuthor: William F. Halloran\nCambridge, UK: Open Book Publishers, 2020\nhttps://doi.org/10.11647/OBP.0221\nSharp wrote “I feel another self within me now more than ever; it is as if I were possessed by a spirit who must speak out”. This three-volume collection brings together Sharp’s own correspondence – a fascinating trove in its own right, by a Victorian man of letters who was on intimate terms with writers including Dante Gabriel Rossetti, Walter Pater, and George Meredith – and the Fiona Macleod letters, which bring to life Sharp’s intriguing “second self”.\n\n\nChronicles from Kashmir: An Annotated, Multimedia Script\n\nAuthor: Nandita Dinesh\nCambridge, UK: Open Book Publishers, 2020\nhttps://doi.org/10.11647/OBP.0223\nChronicles from Kashmir explores this question through a site-adaptive 24-hour theatrical performance. Developed between 2013 and 2018 by the Ensemble Kashmir Theatre Akademi and Nandita Dinesh, the play uses a durational, promenade format to immerse its audience within a multitude of perspectives on life in Kashmir. From a wedding celebration that is interrupted by curfew, to schoolboys divided by policing strategies, and soldiers struggling with a toxic mixture of boredom and trauma, Chronicles from Kashmir uses performance, installation and collaborative creation to grapple with Kashmir’s conflicts through the lenses of outsiders, insiders, and everyone in between."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#july-2020",
+    "href": "obp_press.nbconvert.html#july-2020",
+    "title": "Open Book Publishers",
+    "section": "July 2020",
+    "text": "July 2020\n\nSimplified Signs: A Manual Sign-Communication System for Special Populations, Volume 1.\n\nAuthor: John D. Bonvillian\nAuthor: Nicole Kissane Lee\nAuthor: Tracy T. Dooley\nAuthor: Filip T. Loncke\nCambridge, UK: Open Book Publishers, 2020\nhttps://doi.org/10.11647/OBP.0205\nSimplified Signs presents a system of manual sign communication intended for special populations who have had limited success mastering spoken or full sign languages. It is the culmination of over twenty years of research and development by the authors. The Simplified Sign System has been developed and tested for ease of sign comprehension, memorization, and formation by limiting the complexity of the motor skills required to form each sign, and by ensuring that each sign visually resembles the meaning it conveys. Lucid and comprehensive, this work constitutes a valuable resource that will enhance the communicative interactions of many different people, and will be of great interest to researchers and educators alike.\n\n\nSimplified Signs: A Manual Sign-Communication System for Special Populations, Volume 2.\n\nAuthor: John D. Bonvillian\nAuthor: Nicole Kissane Lee\nAuthor: Tracy T. Dooley\nAuthor: Filip T. Loncke\nCambridge, UK: Open Book Publishers, 2020\nhttps://doi.org/10.11647/OBP.0220\nSimplified Signs presents a system of manual sign communication intended for special populations who have had limited success mastering spoken or full sign languages. It is the culmination of over twenty years of research and development by the authors. The Simplified Sign System has been developed and tested for ease of sign comprehension, memorization, and formation by limiting the complexity of the motor skills required to form each sign, and by ensuring that each sign visually resembles the meaning it conveys. Lucid and comprehensive, this work constitutes a valuable resource that will enhance the communicative interactions of many different people, and will be of great interest to researchers and educators alike."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#june-2020",
+    "href": "obp_press.nbconvert.html#june-2020",
+    "title": "Open Book Publishers",
+    "section": "June 2020",
+    "text": "June 2020\n\nA Lexicon of Medieval Nordic Law\n\nAuthor: Jeffrey Love\nAuthor: Inger Larsson\nAuthor: Ulrika Djärv\nAuthor: Christine Peel\nAuthor: Erik Simensen\nCambridge, UK: Open Book Publishers, 2020\nhttps://doi.org/10.11647/OBP.0188\n‘A Lexicon of Medieval Nordic Law’ is an indispensable resource for scholars and students of medieval Scandinavia. This polyglot dictionary draws on the vast and vibrant range of vernacular legal terminology found in medieval Scandinavian texts – terminology which yields valuable insights into the quotidian realities of crime and retribution; the processes, application and execution of laws; and the cultural and societal concerns underlying the development and promulgation of such laws."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#april-2020",
+    "href": "obp_press.nbconvert.html#april-2020",
+    "title": "Open Book Publishers",
+    "section": "April 2020",
+    "text": "April 2020\n\nMargery Spring Rice: Pioneer of Women’s Health in the Early Twentieth Century\n\nAuthor: Lucy Pollard\nCambridge, UK: Open Book Publishers, 2020\nhttps://doi.org/10.11647/OBP.0215\nThis book vividly presents the story of Margery Spring Rice, an instrumental figure in the movements of women’s health and family planning in the first half of the twentieth century. Margery Spring Rice, née Garrett, was born into a family of formidable female trailblazers – niece of physician and suffragist Elizabeth Garrett Anderson, and of Millicent Fawcett, a leading suffragist and campaigner for equal rights for women. Margery Spring Rice continued this legacy with her co-founding of the North Kensington birth control clinic in 1924, three years after Marie Stopes founded the first clinic in Britain.\n\n\nThe Life and Letters of William Sharp and “Fiona Macleod”: Volume 2: 1895-1899\n<img src=“https://cdn.openbookpublishers.com/covers/10.11647/obp.0196.jpg” alt=“cover for The Life and Letters of William Sharp and”Fiona Macleod”: Volume 2: 1895-1899” width=“300”/>\nAuthor: William F. Halloran\nCambridge, UK: Open Book Publishers, 2020\nhttps://doi.org/10.11647/OBP.0196\nWith an introduction and detailed notes by William F. Halloran, this richly rewarding collection offers a wonderful insight into the literary landscape of the time, while also investigating a strange and underappreciated phenomenon of late-nineteenth-century English literature. It is essential for scholars of the period, and it is an illuminating read for anyone interested in authorship and identity.\n\n\nAgency: Moral Identity and Free Will\n\nAuthor: David Weissman\nCambridge, UK: Open Book Publishers, 2020\nhttps://doi.org/10.11647/OBP.0197\nClosely argued but plainly written, ‘Agency: Moral Identity and Free Will’ speaks for autonomy and responsibility when both are eclipsed by ideas that embed us in history or tradition. Our sense of moral choice and freedom is accurate. We are not altogether the creatures of our circumstances."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#march-2020",
+    "href": "obp_press.nbconvert.html#march-2020",
+    "title": "Open Book Publishers",
+    "section": "March 2020",
+    "text": "March 2020\n\nGallucci’s Commentary on Dürer’s ‘Four Books on Human Proportion’: Renaissance Proportion Theory\n\nAuthor: James Hutson\nCambridge, UK: Open Book Publishers, 2020\nhttps://doi.org/10.11647/OBP.0198\nThis translation is the first to make these original contributions by Gallucci accessible to an English-speaking audience. Gallucci’s contributions illuminate the significance of symmetry and proportion in the contemporary education of the early modern era, informing our understanding of the intellectual history of this period, and the development of art theory and criticism. This is a valuable resource to early modern scholars and students alike, especially those specialising in history of art, philosophy, history of science, and poetry."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#february-2020",
+    "href": "obp_press.nbconvert.html#february-2020",
+    "title": "Open Book Publishers",
+    "section": "February 2020",
+    "text": "February 2020\n\nThe Tiberian Pronunciation Tradition of Biblical Hebrew, Volume 2\n\nAuthor: Geoffrey Khan\nCambridge, UK: Open Book Publishers, 2020\nhttps://doi.org/10.11647/OBP.0194\nThis book presents the current state of knowledge of the Tiberian pronunciation tradition of Biblical Hebrew and a full edition of one of the key medieval sources, Hidāyat al-Qāriʾ ‘The Guide for the Reader’, by ʾAbū al-Faraj Hārūn. There is also an accompanying oral performance of samples of the reconstructed pronunciation by Alex Foreman.\n\n\nThe Tiberian Pronunciation Tradition of Biblical Hebrew, Volume 1\n\nAuthor: Geoffrey Khan\nCambridge, UK: Open Book Publishers, 2020\nhttps://doi.org/10.11647/OBP.0163\nThis book presents the current state of knowledge of the Tiberian pronunciation tradition of Biblical Hebrew and a full edition of one of the key medieval sources, Hidāyat al-Qāriʾ ‘The Guide for the Reader’, by ʾAbū al-Faraj Hārūn. There is also an accompanying oral performance of samples of the reconstructed pronunciation by Alex Foreman."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#january-2020",
+    "href": "obp_press.nbconvert.html#january-2020",
+    "title": "Open Book Publishers",
+    "section": "January 2020",
+    "text": "January 2020\n\nThe Waning Sword: Conversion Imagery and Celestial Myth in ‘Beowulf’\n\nAuthor: Edward Pettit\nCambridge, UK: Open Book Publishers, 2020\nhttps://doi.org/10.11647/OBP.0190\nThe image of a giant sword melting stands at the structural and thematic heart of the Old English heroic poem Beowulf. This meticulously researched book investigates the nature and significance of this golden-hilted weapon and its likely relatives within Beowulf and beyond, drawing on the fields of Old English and Old Norse language and literature, liturgy, archaeology, astronomy, folklore and comparative mythology."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#october-2019",
+    "href": "obp_press.nbconvert.html#october-2019",
+    "title": "Open Book Publishers",
+    "section": "October 2019",
+    "text": "October 2019\n\nLabor and Value: Rethinking Marx’s Theory of Exploitation\n\nAuthor: Ernesto Screpanti\nCambridge, UK: Open Book Publishers, 2019\nhttps://doi.org/10.11647/OBP.0182\nIn this book Ernesto Screpanti provides a rigorous examination of Marx’s theory of exploitation, one of the cornerstones of Marxist thought. With precision and clarity, he identifies the holes in traditional readings of Marx’s theory before advancing his own original interpretation, drawing on contemporary philosophy and economic theory to provide a refreshingly interdisciplinary exegesis."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#september-2019",
+    "href": "obp_press.nbconvert.html#september-2019",
+    "title": "Open Book Publishers",
+    "section": "September 2019",
+    "text": "September 2019\n\nEssays on Paula Rego: Smile When You Think about Hell\n\nAuthor: Maria Manuel Lisboa\nCambridge, UK: Open Book Publishers, 2019\nhttps://doi.org/10.11647/OBP.0178\nIn these powerful and stylishly written essays, Maria Manuel Lisboa dissects the work of Paula Rego, the Portuguese-born artist considered one of the greatest artists of modern times. Focusing primarily on Rego’s work since the 1980s, Lisboa explores the complex relationships between violence and nurturing, power and impotence, politics and the family that run through Rego’s art."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#july-2019",
+    "href": "obp_press.nbconvert.html#july-2019",
+    "title": "Open Book Publishers",
+    "section": "July 2019",
+    "text": "July 2019\n\nImage, Knife, and Gluepot: Early Assemblage in Manuscript and Print\n\nAuthor: Kathryn M. Rudy\nCambridge, UK: Open Book Publishers, 2019\nhttps://doi.org/10.11647/OBP.0145\nIn this ingenious study, Kathryn Rudy takes the reader on a journey to trace the birth, life and afterlife of a Netherlandish book of hours made in 1500. Image, Knife, and Gluepot painstakingly reconstructs the process by which this manuscript was created and discusses its significance as a text at the forefront of fifteenth-century book production, when the invention of mechanically-produced images led to the creation of new multimedia objects."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#june-2019",
+    "href": "obp_press.nbconvert.html#june-2019",
+    "title": "Open Book Publishers",
+    "section": "June 2019",
+    "text": "June 2019\n\nThe Pogroms in Ukraine, 1918-19: Prelude to the Holocaust\n\nTranslator: Maurice Wolfthal\nCambridge, UK: Open Book Publishers, 2019\nhttps://doi.org/10.11647/OBP.0176\nOriginally written in Yiddish and here skillfully translated and introduced by Maurice Wolfthal, The Pogroms in Ukraine, 1918-19 brings to light a terrible and historically neglected series of persecutions that foreshadowed the Holocaust by twenty years. It is essential reading for academics and students in the fields of human rights, Jewish studies, Russian and Soviet studies, and Ukraine studies."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#may-2019",
+    "href": "obp_press.nbconvert.html#may-2019",
+    "title": "Open Book Publishers",
+    "section": "May 2019",
+    "text": "May 2019\n\nLove and Intrigue: A Bourgeois Tragedy\n\nTranslator: Flora Kimmich\nIntroduction_by: Roger Paulin\nCambridge, UK: Open Book Publishers, 2019\nhttps://doi.org/10.11647/OBP.0175\nLove and Intrigue, the third of Schiller’s canonical plays (after The Robbers and Fiesco’s Conspiracy at Genoa), belongs to the genre of domestic tragedy, with a small cast and an action indoors. It takes place as the highly conventional world of the late eighteenth century stands poised to erupt, and these tensions pervade its setting and emerge in its action. This lively play brims with comedy and tragedy expressed in a colorful, highly colloquial, sometimes scandalous prose well captured in Flora Kimmich’s skilled and informed translation. An authoritative essay by Roger Paulin introduces the reader to the play."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#april-2019",
+    "href": "obp_press.nbconvert.html#april-2019",
+    "title": "Open Book Publishers",
+    "section": "April 2019",
+    "text": "April 2019\n\nTennyson’s Poems: New Textual Parallels\n\nAuthor: R. H. Winnick\nCambridge, UK: Open Book Publishers, 2019\nhttps://doi.org/10.11647/OBP.0161\nIn Tennyson’s Poems: New Textual Parallels, R. H. Winnick identifies more than a thousand previously unknown instances in which Tennyson phrases of two or three to as many as several words are similar or identical to those occurring in prior works by other hands—discoveries aided by the proliferation of digitized texts and the related development of powerful search tools over the three decades since the most recent major edition of Tennyson’s poems was published."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#february-2019",
+    "href": "obp_press.nbconvert.html#february-2019",
+    "title": "Open Book Publishers",
+    "section": "February 2019",
+    "text": "February 2019\n\nHyperion, or the Hermit in Greece\n\nTranslator: Howard Gaskill\nCambridge, UK: Open Book Publishers, 2019\nhttps://doi.org/10.11647/OBP.0160\nFriedrich Hölderlin’s only novel, Hyperion (1797–99), is a fictional epistolary autobiography that juxtaposes narration with critical reflection. In this skilful translation, Gaskill conveys the beautiful music and rhythms of Hölderlin’s language to an English-speaking reader."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#january-2019",
+    "href": "obp_press.nbconvert.html#january-2019",
+    "title": "Open Book Publishers",
+    "section": "January 2019",
+    "text": "January 2019\n\nDelivering on the Promise of Democracy: Visual Case Studies in Educational Equity and Transformation\n\nAuthor: Sukhwant Jhaj\nCambridge, UK: Open Book Publishers, 2019\nhttps://doi.org/10.11647/OBP.0157\nDelivering on the Promise of Democracy pulls back the curtain on seven high-performing universities to reveal which daily decisions, including listening to the community, embracing conflict, and implementing effective strategies through routine, guide administrators in achieving exceptional results. Through in-depth interviews that offer a close look at these seven universities, Jhaj traces a new trajectory for higher education: a call to question a university’s effectiveness through its accessibility to the community it serves."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#december-2018",
+    "href": "obp_press.nbconvert.html#december-2018",
+    "title": "Open Book Publishers",
+    "section": "December 2018",
+    "text": "December 2018\n\nA Fleet Street In Every Town: The Provincial Press in England, 1855-1900\n\nAuthor: Andrew Hobbs\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0152\n‘A Fleet Street in Every Town’ positions the local paper at the centre of debates on Victorian newspapers, periodicals, reading and publishing. It reorientates our view of the Victorian press away from metropolitan high culture and parliamentary politics, and towards the places where most people lived, loved and read. This is an essential book for anybody interested in nineteenth-century print culture, journalism and reading.\n\n\nThe Juggler of Notre Dame and the Medievalizing of Modernity: Volume 6: War and Peace, Sex and Violence\n\nAuthor: Jan M. Ziolkowski\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0149\nThis ambitious and vivid study in six volumes explores the journey of a single, electrifying story, from its first incarnation in a medieval French poem through its prolific rebirth in the nineteenth and twentieth centuries. The Juggler of Notre Dame tells how an entertainer abandons the world to join a monastery, but is suspected of blasphemy after dancing his devotion before a statue of the Madonna in the crypt; he is saved when the statue, delighted by his skill, miraculously comes to life."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#november-2018",
+    "href": "obp_press.nbconvert.html#november-2018",
+    "title": "Open Book Publishers",
+    "section": "November 2018",
+    "text": "November 2018\n\nThe Life and Letters of William Sharp and “Fiona Macleod”: VOLUME I: 1855–1894\n\nAuthor: William F. Halloran\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0142\nSharp wrote “I feel another self within me now more than ever; it is as if I were possessed by a spirit who must speak out”. This three-volume collection brings together Sharp’s own correspondence – a fascinating trove in its own right, by a Victorian man of letters who was on intimate terms with writers including Dante Gabriel Rossetti, Walter Pater, and George Meredith – and the Fiona Macleod letters, which bring to life Sharp’s intriguing “second self”."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#october-2018",
+    "href": "obp_press.nbconvert.html#october-2018",
+    "title": "Open Book Publishers",
+    "section": "October 2018",
+    "text": "October 2018\n\nThe Juggler of Notre Dame and the Medievalizing of Modernity: Volume 5: Tumbling into the Twentieth Century\n\nAuthor: Jan M. Ziolkowski\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0148\nThis ambitious and vivid study in six volumes explores the journey of a single, electrifying story, from its first incarnation in a medieval French poem through its prolific rebirth in the nineteenth and twentieth centuries. The Juggler of Notre Dame tells how an entertainer abandons the world to join a monastery, but is suspected of blasphemy after dancing his devotion before a statue of the Madonna in the crypt; he is saved when the statue, delighted by his skill, miraculously comes to life.\n\n\nHanging on to the Edges: Essays on Science, Society and the Academic Life\n\nAuthor: Daniel Nettle\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0155\nPragmatically arguing from the intersection between social and biological sciences, Nettle reappraises the virtues of policy initiatives such as Universal Basic Income and income redistribution, highlighting the traps researchers and politicians are liable to encounter. This provocative, intelligent and self-critical volume is a testament to the possibilities of interdisciplinary study—whose virtues Nettle stridently defends—drawing from and having implications for a wide cross-section of academic inquiry. This will appeal to anybody curious about the implications of social and biological sciences for increasingly topical political concerns. It comes particularly recommended to Sciences and Social Sciences students and to scholars seeking to extend the scope of their field in collaboration with other disciplines.\n\n\nThe Juggler of Notre Dame and the Medievalizing of Modernity: Volume 4: Picture That: Making a Show of the Jongleur\n\nAuthor: Jan M. Ziolkowski\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0147\nThis ambitious and vivid study in six volumes explores the journey of a single, electrifying story, from its first incarnation in a medieval French poem through its prolific rebirth in the nineteenth and twentieth centuries. The Juggler of Notre Dame tells how an entertainer abandons the world to join a monastery, but is suspected of blasphemy after dancing his devotion before a statue of the Madonna in the crypt; he is saved when the statue, delighted by his skill, miraculously comes to life."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#september-2018",
+    "href": "obp_press.nbconvert.html#september-2018",
+    "title": "Open Book Publishers",
+    "section": "September 2018",
+    "text": "September 2018\n\nWith and Without Galton: Vasilii Florinskii and the Fate of Eugenics in Russia\n\nAuthor: Nikolai Krementsov\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0144\nIn 1865, British polymath Francis Galton published his initial thoughts about the scientific field that would become ‘eugenics.’ The same year, Russian physician Vasilii Florinskii addressed similar issues in a sizeable treatise, entitled Human Perfection and Degeneration. Initially unheralded, Florinskii’s book would go on to have a remarkable afterlife in twentieth- and twenty-first-century Russia. In this lucid and insightful work, Nikolai Krementsov argues that the concept of eugenics brings together ideas, values, practices, and fears energised by a focus on the future.\n\n\nANZUS and the Early Cold War: Strategy and Diplomacy between Australia, New Zealand and the United States, 1945-1956\n\nAuthor: Andrew Kelly\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0141\n‘ANZUS and the Early Cold War’ is essential reading for historians of Australian, New Zealand and American international relations in the twentieth century. Its concise format and readable style will also appeal to general readers interested in the history and foreign policies of these nations, and to anyone who wants to know more about the individual and geopolitical tensions that beset any major alliance."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#august-2018",
+    "href": "obp_press.nbconvert.html#august-2018",
+    "title": "Open Book Publishers",
+    "section": "August 2018",
+    "text": "August 2018\n\nThe Juggler of Notre Dame and the Medievalizing of Modernity: Volume 3: The American Middle Ages\n\nAuthor: Jan M. Ziolkowski\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0146\nThis ambitious and vivid study in six volumes explores the journey of a single, electrifying story, from its first incarnation in a medieval French poem through its prolific rebirth in the nineteenth and twentieth centuries. The Juggler of Notre Dame tells how an entertainer abandons the world to join a monastery, but is suspected of blasphemy after dancing his devotion before a statue of the Madonna in the crypt; he is saved when the statue, delighted by his skill, miraculously comes to life."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#july-2018",
+    "href": "obp_press.nbconvert.html#july-2018",
+    "title": "Open Book Publishers",
+    "section": "July 2018",
+    "text": "July 2018\n\nThe Juggler of Notre Dame and the Medievalizing of Modernity: Volume 2: Medieval Meets Medievalism\n\nAuthor: Jan M. Ziolkowski\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0143\nThis ambitious and vivid study in six volumes explores the journey of a single, electrifying story, from its first incarnation in a medieval French poem through its prolific rebirth in the nineteenth and twentieth centuries. The Juggler of Notre Dame tells how an entertainer abandons the world to join a monastery, but is suspected of blasphemy after dancing his devotion before a statue of the Madonna in the crypt; he is saved when the statue, delighted by his skill, miraculously comes to life.\n\n\nThe Red Countess: Select Autobiographical and Fictional Writing of Hermynia Zur Mühlen (1883-1951)\n\nAuthor: Hermynia Zur Mühlen\nEditor: Lionel Gossman\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0140\nThis new, expanded edition contains: Zur Mühlen’s autobiographical memoir, The End and the Beginning; The editor’s detailed notes on the persons and events mentioned in the autobiography; A selection of Zur Mühlen’s short stories and two fairy tales; A synopsis of Zur Mühlen’s untranslated novel Our Daughters the Nazi Girls; An essay by the Editor on Zur Mühlen’s life and work; A bibliography of Zur Mühlen’s novels in English translation; A portfolio of selected illustrations of her work by George Grosz and Heinrich Vogeler; A free online supplement with additional original material"
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#june-2018",
+    "href": "obp_press.nbconvert.html#june-2018",
+    "title": "Open Book Publishers",
+    "section": "June 2018",
+    "text": "June 2018\n\nEuropa im Geisterkrieg. Studien zu Nietzsche\n\nAuthor: Werner Stegmaier\nEditor: Andrea C. Bertino\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0133\nDie Studien Werner Stegmaiers zu Nietzsche, von denen hier 20 zusammengestellt sind, entstanden im Zeitraum der letzten drei Jahrzehnte. Sie sind Teil der jüngeren Nietzsche-Forschung, die ein nüchterneres, gelasseneres und darum auch plausibleres und anschlussfähigeres Konzept von Nietzsches Philosophie entwickelte, und wurden für Generationen junger internationaler Nietzsche-Forscher(innen) thematisch und methodisch in vielem richtungsweisend. Werner Stegmaier, langjähriger Herausgeber der Nietzsche-Studien, gehört zu den führenden Nietzsche-Forschern weltweit.\n\n\nThe Juggler of Notre Dame and the Medievalizing of Modernity: Volume 1: The Middle Ages\n\nAuthor: Jan M. Ziolkowski\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0132\nThis ambitious and vivid study in six volumes explores the journey of a single, electrifying story, from its first incarnation in a medieval French poem through its prolific rebirth in the nineteenth and twentieth centuries. The Juggler of Notre Dame tells how an entertainer abandons the world to join a monastery, but is suspected of blasphemy after dancing his devotion before a statue of the Madonna in the crypt; he is saved when the statue, delighted by his skill, miraculously comes to life.\n\n\nDon Carlos Infante of Spain: A Dramatic Poem\n\nAuthor: Friedrich Schiller\nTranslator: Flora Kimmich\nIntroduction_by: John Guthrie\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0134\nSchiller described Don Carlos as “a family portrait in a princely house.” It interweaves political machinations with powerful personal relationships to create a complex and resonant tragedy. The conflict between absolutism and liberty appealed not only to audiences but also to other artists and gave rise to several operas, not least to Verdi’s great Don Carlos of 1867. The play, which the playwright never finished to his satisfaction, lives on nonetheless among his best-loved works and is translated here with flair and skill by Flora Kimmich."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#may-2018",
+    "href": "obp_press.nbconvert.html#may-2018",
+    "title": "Open Book Publishers",
+    "section": "May 2018",
+    "text": "May 2018\n\nUndocumented Migrants and Healthcare: Eight Stories from Switzerland\n\nAuthor: Marianne Jossen\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0139\nThis urgent study uses a grounded theory approach to explore the ways in which undocumented migrants are included in or excluded from healthcare in a Swiss region. Marianne Jossen explores the ways migrants try to obtain healthcare on their own, with the help of NGOs or via insurance, and how they cope if they fail, whether by using risky strategies to access healthcare or leaving serious health issues untreated. Jossen shows that even for those who succeed, inclusion remains partial and fraught with risks.\n\n\nExploring the Interior: Essays on Literary and Cultural History\n\nAuthor: Karl S. Guthke\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0126\nIn this fascinating collection of essays Harvard Emeritus Professor Karl S. Guthke examines the ways in which, for European scholars and writers of the eighteenth and early nineteenth century, world-wide geographical exploration led to an exploration of the self."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#april-2018",
+    "href": "obp_press.nbconvert.html#april-2018",
+    "title": "Open Book Publishers",
+    "section": "April 2018",
+    "text": "April 2018\n\nTales of Darkness and Light: Soso Tham’s The Old Days of the Khasis\n\nAuthor: Soso Tham\nTranslator: Janet Hujon\nPreface_by: Mark Turin\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0137\nPoet of landscape, myth and memory, Soso Tham paid rich and poignant tribute to his tribe in his masterpiece The Old Days of the Khasis. Janet Hujon’s vibrant new translation presents the English reader with Tham’s long poem, which keeps a rich cultural tradition of the Khasi people alive through its retelling of old narratives and acts as a cultural signpost for their literary identity."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#march-2018",
+    "href": "obp_press.nbconvert.html#march-2018",
+    "title": "Open Book Publishers",
+    "section": "March 2018",
+    "text": "March 2018\n\nHuman and Machine Consciousness\n\nAuthor: David Gamez\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0107\nHuman and Machine Consciousness presents a new foundation for the scientific study of consciousness. It sets out a bold interpretation of consciousness that neutralizes the philosophical problems and explains how we can make scientific predictions about the consciousness of animals, brain-damaged patients and machines."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#february-2018",
+    "href": "obp_press.nbconvert.html#february-2018",
+    "title": "Open Book Publishers",
+    "section": "February 2018",
+    "text": "February 2018\n\nText Genetics in Literary Modernism and other Essays\n\nAuthor: Hans-Walter Gabler\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0120\nThis collection of essays from world-renowned scholar Hans Walter Gabler contains writings from a decade and a half of retirement spent in exploration of textual criticism, genetic criticism, and literary criticism. In these sixteen stimulating contributions, he develops theories of textual criticism and editing that are inflected by our advance into the digital era; structurally analyses arts of composition in literature as well as music; and traces the cultural implications discernible in book design, and in the societal processes of the canonisation of works of literature and their authors.\n\n\nAn Anglo-Norman Reader\n\nAuthor: Jane Bliss\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0110\nThis book is an anthology with a difference. It presents a distinctive variety of Anglo-Norman works, beginning in the twelfth century and ending in the nineteenth, covering a broad range of genres and writers, introduced in a lively and thought-provoking way. Facing-page translations, into accessible and engaging modern English, are provided throughout, bringing these texts to life for a contemporary audience.\n\n\nThe Jewish Unions in America: Pages of History and Memories\n\nAuthor: Bernard Weinstein\nTranslator: Maurice Wolfthal\nCambridge, UK: Open Book Publishers, 2018\nhttps://doi.org/10.11647/OBP.0118\nFrom the pages of this book emerges a vivid picture of workers’ organizations at the beginning of the twentieth century and a capitalist system that bred exploitation, poverty, and inequality. Although workers’ rights have made great progress in the decades since, Weinstein’s descriptions of workers with jobs pitted against those without, and American workers against workers abroad, still carry echoes today. The Jewish Unions in America is a testament to the struggles of working people a hundred years ago. But it is also a reminder that workers must still battle to live decent lives in the free market."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#december-2017",
+    "href": "obp_press.nbconvert.html#december-2017",
+    "title": "Open Book Publishers",
+    "section": "December 2017",
+    "text": "December 2017\n\nScience as Social Existence: Heidegger and the Sociology of Scientific Knowledge\n\nAuthor: Jeff Kochan\nCambridge, UK: Open Book Publishers, 2017\nhttps://doi.org/10.11647/OBP.0129\nIn this bold and original study, Jeff Kochan constructively combines the sociology of scientific knowledge (SSK) with Martin Heidegger’s early existential conception of science. Kochan shows convincingly that these apparently quite different approaches to science are, in fact, largely compatible, even mutually reinforcing."
+  },
+  {
+    "objectID": "obp_press.nbconvert.html#october-2017",
+    "href": "obp_press.nbconvert.html#october-2017",
+    "title": "Open Book Publishers",
+    "section": "October 2017",
+    "text": "October 2017\n\nBasic Knowledge and Conditions on Knowledge\n\nAuthor: Mark McBride\nCambridge, UK: Open Book Publishers, 2017\nhttps://doi.org/10.11647/OBP.0104\nHow do we know what we know? In this stimulating and rigorous book, Mark McBride explores two sets of issues in contemporary epistemology: the problems that warrant transmission poses for the category of basic knowledge; and the status of conclusive reasons, sensitivity, and safety as conditions that are necessary for knowledge."
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#february-2023",
+    "href": "punctum_press.nbconvert.html#february-2023",
+    "title": "punctum books",
+    "section": "February 2023",
+    "text": "February 2023\n\nThe Goths & Other Stories\n\nAuthor: Tis Kaoru Zamler-Carhart\nEarth, Milky Way: punctum books, 2023\nhttps://doi.org/10.53288/0492.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#january-2023",
+    "href": "punctum_press.nbconvert.html#january-2023",
+    "title": "punctum books",
+    "section": "January 2023",
+    "text": "January 2023\n\nNotes on Trumpspace: Politics, Aesthetics, and the Fantasy of Home\n\nAuthor: David Markus\nEarth, Milky Way: punctum books, 2023\nhttps://doi.org/10.53288/0366.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#december-2022",
+    "href": "punctum_press.nbconvert.html#december-2022",
+    "title": "punctum books",
+    "section": "December 2022",
+    "text": "December 2022\n\nNortheastern Asia and the Northern Rockies: Treasures from the Los Angeles County Museum of Art and the Daryl S. Paulson Collection\n\nAuthor: T. Lawrence Larkin\nAuthor: Stephen Little\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0383.1.00\n\n\nThe Angels Won’t Help You\n\nAuthor: M.H. Bowker\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0388.1.00\n\n\nStatic Palace\n\nAuthor: Leora Fridman\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0411.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#november-2022",
+    "href": "punctum_press.nbconvert.html#november-2022",
+    "title": "punctum books",
+    "section": "November 2022",
+    "text": "November 2022\n\nMy Phone Lies to Me: Fake News Poetry Workshops As Radical Digital Media Literacy Given the Fact of Fake News\n\nEditor: Alexandra Juhasz\nForeword_by: Tara McPherson\nAfterword_by: Margaret Rhee\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0394.1.00\n\n\nFascism, Vulnerability, and the Escape from Freedom: Readings to Repair Democracy\n\nAuthor: C. Jon Delogu\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0392.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#october-2022",
+    "href": "punctum_press.nbconvert.html#october-2022",
+    "title": "punctum books",
+    "section": "October 2022",
+    "text": "October 2022\n\nSomething More Splendid Than Two\n\nAuthor: josé rivers alfaro\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0412.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#september-2022",
+    "href": "punctum_press.nbconvert.html#september-2022",
+    "title": "punctum books",
+    "section": "September 2022",
+    "text": "September 2022\n\nThe Dark Posthuman: Dehumanization, Technology, and the Atlantic World\n\nAuthor: Stephanie Polsky\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0381.1.00\n\n\nA Credible Utopia: Essays on Selected Films of Werner Schroeter\n\nAuthor: Peter Valente\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0391.1.00\n\n\nStyling Sagaciousness: Oh Great No!\n\nAuthor: Joseph Nechvatal\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0387.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#july-2022",
+    "href": "punctum_press.nbconvert.html#july-2022",
+    "title": "punctum books",
+    "section": "July 2022",
+    "text": "July 2022\n\nWorks for Works, Book 1: Useless Beauty\n\nAuthor: Gavin Keeney\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0375.1.00\n\n\nEscape Philosophy: Journeys Beyond the Human Body\n\nAuthor: Roy Christopher\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0416.1.00\n\n\nPitch and Revelation: Reconfigurations of Reading, Poetry, and Philosophy through the Work of Jay Wright\n\nAuthor: Matthew Goulish\nAuthor: Will Daddario\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0380.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#june-2022",
+    "href": "punctum_press.nbconvert.html#june-2022",
+    "title": "punctum books",
+    "section": "June 2022",
+    "text": "June 2022\n\nNothing As We Need It: A Chimera\n\nAuthor: Daniela Cascella\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0382.1.00\n\n\nTurkish Voices\n\nAuthor: Murat Nemet-Nejat\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0390.1.00\n\n\nLetters on the Autonomy Project\n\nAuthor: Janet Sarbanes\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0358.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#may-2022",
+    "href": "punctum_press.nbconvert.html#may-2022",
+    "title": "punctum books",
+    "section": "May 2022",
+    "text": "May 2022\n\nBuilding Black: Towards Antiracist Architecture\n\nAuthor: Elliot C. Mason\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0372.1.00\n\n\nNubian Proverbs (Fadijja/Mahas)\n\nAuthor: Maher Habbob\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0346.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#april-2022",
+    "href": "punctum_press.nbconvert.html#april-2022",
+    "title": "punctum books",
+    "section": "April 2022",
+    "text": "April 2022\n\nBroken Theory\n\nAuthor: Alan Sondheim\nAfterword_by: Ryan Whyte\nPreface_by: Maria Damon\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0393.1.00\n\n\nA Buddha Land in This World: Philosophy, Utopia, and Radical Buddhism\n\nAuthor: Lajos Brons\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0373.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#march-2022",
+    "href": "punctum_press.nbconvert.html#march-2022",
+    "title": "punctum books",
+    "section": "March 2022",
+    "text": "March 2022\n\ndis/cord: Thinking Sound through Agential Realism\n\nAuthor: Kevin Toksöz Fairbarn\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0360.1.00\n\n\nThe Romanian Sentiment of Being\n\nAuthor: Constantin Noica\nTranslator: Octavian Gabor\nTranslator: Elena Gabor\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0355.1.00\n\n\nQueer and Bookish: Eve Kosofsky Sedgwick as Book Artist\n\nAuthor: Jason Edwards\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0328.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#february-2022",
+    "href": "punctum_press.nbconvert.html#february-2022",
+    "title": "punctum books",
+    "section": "February 2022",
+    "text": "February 2022\n\nThe Christian Economy of the Early Medieval West: Towards a Temple Society\n\nAuthor: Ian Wood\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0371.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#january-2022",
+    "href": "punctum_press.nbconvert.html#january-2022",
+    "title": "punctum books",
+    "section": "January 2022",
+    "text": "January 2022\n\nBroken Narrative: The Politics of Contemporary Art in Albania\n\nAuthor: Marco Mazzi\nAuthor: Armando Lulaj\nTranslator: Brenda Porster\nTranslator: Tomii Keiko\nPreface_by: Jonida Gashi\nPreface_by: Osamu Kanemura\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0341.1.00\n\n\nAbruptly Dogen\n\nAuthor: Kidder Smith\nEarth, Milky Way: punctum books, 2022\nhttps://doi.org/10.53288/0389.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#december-2021",
+    "href": "punctum_press.nbconvert.html#december-2021",
+    "title": "punctum books",
+    "section": "December 2021",
+    "text": "December 2021\n\nSweet Spots: Writing the Connective Tissue of Relation\n\nAuthor: Mattie-Martha Sempert\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0340.1.00\n\n\nWonder, Horror, Mystery: Letters on Cinema and Religion in Malick, Von Trier, and Kieślowski\n\nAuthor: J.M. Tyree\nAuthor: Morgan Meis\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0359.1.00\n\n\nWarez: The Infrastructure and Aesthetics of Piracy\n\nAuthor: Martin Paul Eve\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0339.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#november-2021",
+    "href": "punctum_press.nbconvert.html#november-2021",
+    "title": "punctum books",
+    "section": "November 2021",
+    "text": "November 2021\n\nSuture: Trauma and Trans Becoming\n\nAuthor: KJ Cerankowski\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0357.1.00\n\n\nGeographies of Identity: Narrative Forms, Feminist Futures\n\nAuthor: Jill Darling\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0329.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#october-2021",
+    "href": "punctum_press.nbconvert.html#october-2021",
+    "title": "punctum books",
+    "section": "October 2021",
+    "text": "October 2021\n\nBullied: The Story of an Abuse\n\nAuthor: Jonathan Alexander\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0356.1.00\n\n\nObiter Dicta\n\nAuthor: Erick Verran\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0301.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#september-2021",
+    "href": "punctum_press.nbconvert.html#september-2021",
+    "title": "punctum books",
+    "section": "September 2021",
+    "text": "September 2021\n\nWound Building: Dispatches from the Latest Disasters in UK Poetry\n\nAuthor: Danny Hayward\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0332.1.00\n\n\n(((\n\nAuthor: Alessandro De Francesco\nTranslator: Gen Ueda\nTranslator: Andreas Burckhardt\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0370.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#august-2021",
+    "href": "punctum_press.nbconvert.html#august-2021",
+    "title": "punctum books",
+    "section": "August 2021",
+    "text": "August 2021\n\nCloser to Dust\n\nAuthor: Sara A. Rich\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0324.1.00\n\n\nThe Map and the Territory\n\nAuthor: Michael Munro\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0319.1.00\n\n\nInefficient Mapping: A Protocol for Attuning to Phenomena\n\nAuthor: Linda Knight\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0336.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#july-2021",
+    "href": "punctum_press.nbconvert.html#july-2021",
+    "title": "punctum books",
+    "section": "July 2021",
+    "text": "July 2021\n\nStill Life: Notes on Barbara Loden’s “Wanda” (1970)\n<img src=“https://punctumbooks.com/punctum/wp-content/uploads/2020/10/201001stilllife-cover-web-front.jpg” alt=“cover for Still Life: Notes on Barbara Loden’s”Wanda” (1970)” width=“300”/>\nAuthor: Anna Backman Rogers\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0326.1.00\n\n\nHelicography\n\nAuthor: Craig Dworkin\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0352.1.00\n\n\nLast Year at Betty and Bob’s: An Actual Occasion\n\nAuthor: Sher Doruff\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0363.1.00\n\n\nρan-ρan\n\nAuthor: The Confraternity of Neoflagellants\nForeword_by: Simon O’Sullivan\nAfterword_by: Most Dismal Swamp\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0304.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#june-2021",
+    "href": "punctum_press.nbconvert.html#june-2021",
+    "title": "punctum books",
+    "section": "June 2021",
+    "text": "June 2021\n\nCinema’s Doppelgängers\n\nAuthor: Doug Dibbern\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.53288/0320.1.00\n\n\nAn Edition of Miles Hogarde’s “A Mirroure of Myserie”\n<img src=“https://punctumbooks.com/punctum/wp-content/uploads/2020/05/200502mirroureofmyserie-web-front.jpg” alt=“cover for An Edition of Miles Hogarde’s”A Mirroure of Myserie”” width=“300”/>\nAuthor: Sebastian Sobecki\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.21983/P3.0316.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#may-2021",
+    "href": "punctum_press.nbconvert.html#may-2021",
+    "title": "punctum books",
+    "section": "May 2021",
+    "text": "May 2021\n\nThe Anguished and the Enchanted: “The Little Prince,” Revisited\n<img src=“https://punctumbooks.com/punctum/wp-content/uploads/2020/01/200117anguishedandenchanted-cover-front-web.jpg” alt=“cover for The Anguished and the Enchanted:”The Little Prince,” Revisited” width=“300”/>\nAuthor: M.H. Bowker\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.21983/P3.0311.1.00\n\n\nThe Book / Or / The Woods\n\nAuthor: Jeff T. Johnson\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.21983/P3.0308.1.00\n\n\nSiting Futurity: The “Feel Good” Tactical Radicalism of Contemporary Culture in and around Vienna\n\nAuthor: Susan Ingram\nEarth: punctum books, 2021\nhttps://doi.org/10.21983/P3.0317.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#april-2021",
+    "href": "punctum_press.nbconvert.html#april-2021",
+    "title": "punctum books",
+    "section": "April 2021",
+    "text": "April 2021\n\nEssays on the Peripheries\n\nAuthor: Peter Valente\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.21983/P3.0291.1.00\n\n\nTesting Knowledge: Toward an Ecology of Diagnosis, Preceded by the Dingdingdong Manifesto\n\nAuthor: Katrin Solhdju\nAuthor: Alice Rivières\nTranslator: Damien Bright\nAfterword_by: Isabelle Stengers\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.21983/P3.0307.1.00\n\n\nCome As You Are, After Eve Kosofsky Sedgwick\n\nAuthor: Eve Kosofsky Sedgwick\nAuthor: Jonathan Goldberg\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.21983/P3.0342.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#march-2021",
+    "href": "punctum_press.nbconvert.html#march-2021",
+    "title": "punctum books",
+    "section": "March 2021",
+    "text": "March 2021\n\nLi Bo Unkempt\n\nAuthor: Kidder Smith\nTranslator: Kidder Smith\nTranslator: Mike Zhai\nAfterword_by: Traktung Yeshe Dorje\nAfterword_by: Maria Dolgenas\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.21983/P3.0322.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#february-2021",
+    "href": "punctum_press.nbconvert.html#february-2021",
+    "title": "punctum books",
+    "section": "February 2021",
+    "text": "February 2021\n\nSome Ways of Making Nothing: Apophatic Apparatuses in Contemporary Art\n\nAuthor: Curt Cloninger\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.21983/P3.0327.1.00\n\n\nTeaching Myself To See\n\nAuthor: Tito Mukhopadhyay\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.21983/P3.0303.1.00\n\n\nA Bibliography for After Jews and Arabs\n\nAuthor: Ammiel Alcalay\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.21983/P3.0314.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#january-2021",
+    "href": "punctum_press.nbconvert.html#january-2021",
+    "title": "punctum books",
+    "section": "January 2021",
+    "text": "January 2021\n\nCritique of Fantasy, Vol. 3: The Block of Fame\n\nAuthor: Laurence A. Rickels\nEarth, Milky Way: punctum books, 2021\nhttps://doi.org/10.21983/P3.0279.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#december-2020",
+    "href": "punctum_press.nbconvert.html#december-2020",
+    "title": "punctum books",
+    "section": "December 2020",
+    "text": "December 2020\n\nThe Saga of Þórður kakali: The Icelandic Text, with an English Translation by D.M. White\n\nTranslator: D.M. White\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0309.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#november-2020",
+    "href": "punctum_press.nbconvert.html#november-2020",
+    "title": "punctum books",
+    "section": "November 2020",
+    "text": "November 2020\n\nCritique of Fantasy, Vol. 2: The Contest between B-Genres\n\nAuthor: Laurence A. Rickels\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0278.1.00\n\n\nSkirmishes: With Friends, Enemies, and Neutrals\n\nAuthor: Graham Harman\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0293.1.00\n\n\nLove Don’t Need a Reason: The Life & Music of Michael Callen\n\nAuthor: Matthew J. Jones\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0297.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#october-2020",
+    "href": "punctum_press.nbconvert.html#october-2020",
+    "title": "punctum books",
+    "section": "October 2020",
+    "text": "October 2020\n\nDown to Earth: A Memoir\n\nAuthor: Gísli Pálsson\nTranslator: Anna Yates\nTranslator: Katrina Downs-Rose\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0306.1.00\n\n\nThe Unnaming of Aliass\n\nAuthor: Karin Bolender\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0299.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#september-2020",
+    "href": "punctum_press.nbconvert.html#september-2020",
+    "title": "punctum books",
+    "section": "September 2020",
+    "text": "September 2020\n\nThe Event of Art\n\nAuthor: Marc Lafia\nPreface_by: Mathieu Borysevicz\nPreface_by: Daniel Coffeen\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0275.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#august-2020",
+    "href": "punctum_press.nbconvert.html#august-2020",
+    "title": "punctum books",
+    "section": "August 2020",
+    "text": "August 2020\n\nMaking a Laboratory: Dynamic Configurations with Transversal Video\n\nAuthor: Ben Spatz\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0295.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#june-2020",
+    "href": "punctum_press.nbconvert.html#june-2020",
+    "title": "punctum books",
+    "section": "June 2020",
+    "text": "June 2020\n\nCritique of Fantasy, Vol. 1: Between a Crypt and a Datemark\n\nAuthor: Laurence A. Rickels\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0277.1.00\n\n\nAnimal Emotions: How They Drive Human Behavior\n\nAuthor: Christian Montag\nAuthor: Kenneth L. Davis\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0305.1.00\n\n\nWaste: Capitalism and the Dissolution of the Human in Twentieth-Century Theater\n\nAuthor: Jessica Rizzo\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0302.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#may-2020",
+    "href": "punctum_press.nbconvert.html#may-2020",
+    "title": "punctum books",
+    "section": "May 2020",
+    "text": "May 2020\n\nThe Viscous: Slime, Stickiness, Fondling, Mixtures\n\nAuthor: Freddie Mason\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0292.1.00\n\n\nIncomparable Poetry: An Essay on the Financial Crisis of 2007–2008 and Irish Literature\n\nAuthor: Robert Kiely\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0286.1.00\n\n\nSacred Views of Saint Francis: The Sacro Monte di Orta\n\nAuthor: Cynthia O. Ho\nAuthor: Kathleen W. Peters\nAuthor: John McClain\nPhotographer: J. Ross Peters\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0283.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#april-2020",
+    "href": "punctum_press.nbconvert.html#april-2020",
+    "title": "punctum books",
+    "section": "April 2020",
+    "text": "April 2020\n\nTake Her, She’s Yours\n\nAuthor: Eva-Lynn Jagoe\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0290.1.00\n\n\nRough Notes to Erasure: White Male Privilege, My Senses, and the Story I Cannot Tell\n\nAuthor: Dolsy Smith\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0287.1.00\n\n\nÚtrásarvíkingar! The Literature of the Icelandic Financial Crisis (2008–2014)\n\nAuthor: Alaric Hall\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0272.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#march-2020",
+    "href": "punctum_press.nbconvert.html#march-2020",
+    "title": "punctum books",
+    "section": "March 2020",
+    "text": "March 2020\n\nAural History\n\nAuthor: Gila Ashtor\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0282.1.00\n\n\nThe Humid Condition: (More) Overheated Observations\n\nAuthor: Dominic Pettman\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0284.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#february-2020",
+    "href": "punctum_press.nbconvert.html#february-2020",
+    "title": "punctum books",
+    "section": "February 2020",
+    "text": "February 2020\n\nParis Bride: A Modernist Life\n\nAuthor: John Schad\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0281.1.00\n\n\nSpeechsong: The Gould/Schoenberg Dialogues\n\nAuthor: Richard Cavell\nEarth, Milky Way: punctum books, 2020\nhttps://doi.org/10.21983/P3.0267.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#december-2019",
+    "href": "punctum_press.nbconvert.html#december-2019",
+    "title": "punctum books",
+    "section": "December 2019",
+    "text": "December 2019\n\nAnglo-Saxon(ist) Pasts, postSaxon Futures\n\nAuthor: Donna-Beth Ellard\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0262.1.00\n\n\nA Nuclear Refrain: Emotion, Empire, and the Democratic Potential of Protest\n\nAuthor: Kye Askins\nAuthor: Phil Johnstone\nAuthor: Kelvin Mason\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0271.1.00\n\n\nA Manga Perfeita\n\nAuthor: Erin Manning\nTranslator: Ernesto Filho\nTranslator: Christine Greiner\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0270.1.00\n\n\nLiquid Life: On Non-Linear Materiality\n\nAuthor: Rachel Armstrong\nAuthor: Simone Ferracina\nAuthor: Rolf Hughes\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0246.1.00\n\n\nHephaestus Reloaded: Composed for Ten Hands / Efesto Reloaded: Composizioni per 10 mani\n\nAuthor: Brunella Antomarini\nAuthor: Adam Berg\nAuthor: Vladimir D’Amora\nAuthor: Alessandro De Francesco\nAuthor: Miltos Maneta\nTranslator: Andreas Burckhardt\nTranslator: Patrick Camiller\nTranslator: Pietro Traversa\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0258.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#november-2019",
+    "href": "punctum_press.nbconvert.html#november-2019",
+    "title": "punctum books",
+    "section": "November 2019",
+    "text": "November 2019\n\nSteal This Classroom: Teaching and Learning Unbound\n\nAuthor: Jody Cohen\nAuthor: Anne Dalke\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0261.1.00\n\n\nImperial Physique\n\nAuthor: JH Phrydas\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0268.1.00\n\n\nGender Trouble Couplets, Volume 1\n\nAuthor: A.W. Strouse\nPreface_by: Anna M. Kłosowska\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0266.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#october-2019",
+    "href": "punctum_press.nbconvert.html#october-2019",
+    "title": "punctum books",
+    "section": "October 2019",
+    "text": "October 2019\n\nTelevision Scales\n\nAuthor: Nick Salvato\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0263.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#september-2019",
+    "href": "punctum_press.nbconvert.html#september-2019",
+    "title": "punctum books",
+    "section": "September 2019",
+    "text": "September 2019\n\nMassa por Argamassa: A “Libraria de Babel” e o Sonho de Totalidade\n<img src=“https://punctumbooks.com/punctum/wp-content/uploads/2019/08/190901massaporargamassa-cover-web-front.jpg” alt=“cover for Massa por Argamassa: A”Libraria de Babel” e o Sonho de Totalidade” width=“300”/>\nAuthor: Jonathan Basile\nTranslator: Yuri N. Martinez Laskowski\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0264.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#august-2019",
+    "href": "punctum_press.nbconvert.html#august-2019",
+    "title": "punctum books",
+    "section": "August 2019",
+    "text": "August 2019\n\nThe Pedagogics of Liberation: A Latin American Philosophy of Education\n\nAuthor: Enrique Dussel\nTranslator: David I. Backer\nTranslator: Cecilia Diego\nPreface_by: Linda Martín Alcoff\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0257.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#july-2019",
+    "href": "punctum_press.nbconvert.html#july-2019",
+    "title": "punctum books",
+    "section": "July 2019",
+    "text": "July 2019\n\nMoonbit\n\nAuthor: James E. Dobson\nAuthor: Rena J. Mosteirin\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0260.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#june-2019",
+    "href": "punctum_press.nbconvert.html#june-2019",
+    "title": "punctum books",
+    "section": "June 2019",
+    "text": "June 2019\n\nMisinterest: Essays, Pensées, and Dreams\n\nAuthor: M.H. Bowker\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0256.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#may-2019",
+    "href": "punctum_press.nbconvert.html#may-2019",
+    "title": "punctum books",
+    "section": "May 2019",
+    "text": "May 2019\n\nMetagestures\n\nAuthor: Carla Nappi\nAuthor: Dominic Pettman\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0253.1.00\n\n\nMuseum of Nonhumanity\n\nAuthor: Laura Gustafsson\nAuthor: Terike Haapoja\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0252.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#april-2019",
+    "href": "punctum_press.nbconvert.html#april-2019",
+    "title": "punctum books",
+    "section": "April 2019",
+    "text": "April 2019\n\nMatches: A Light Book\n\nAuthor: S.D. Chrostowska\nForeword_by: Alexander Kluge\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0251.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#march-2019",
+    "href": "punctum_press.nbconvert.html#march-2019",
+    "title": "punctum books",
+    "section": "March 2019",
+    "text": "March 2019\n\nNon-Conceptual Negativity: Damaged Reflections on Turkey\n\nAuthor: Zafer Aracagök\nForeword_by: Fraco “Bifo” Berardi\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0247.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#february-2019",
+    "href": "punctum_press.nbconvert.html#february-2019",
+    "title": "punctum books",
+    "section": "February 2019",
+    "text": "February 2019\n\nThe Perfect Mango\n\nAuthor: Erin Manning\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0245.1.00\n\n\nNoise Thinks the Anthropocene: An Experiment in Noise Poetics\n\nAuthor: Aaron Zwintscher\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0244.1.00\n\n\nFinding Room in Beirut: Places of the Everyday\n\nAuthor: Carole Lévesque\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0243.1.00"
+  },
+  {
+    "objectID": "punctum_press.nbconvert.html#january-2019",
+    "href": "punctum_press.nbconvert.html#january-2019",
+    "title": "punctum books",
+    "section": "January 2019",
+    "text": "January 2019\n\nBeta Exercise: The Theory and Practice of Osamu Kanemura\n\nAuthor: Osamu Kanemura\nEditor: Marco Mazzi\nEditor: Vincent W.J. van Gerven Oei\nTranslator: Michiyo Miyake\nTranslator: Nicholas Marshall\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0241.1.00\n\n\nVital Reenchantments: Biophilia, Gaia, Cosmos, and the Affectively Ecological\n\nAuthor: Lauren Greyson\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0240.1.00\n\n\nEchoes of No Thing: Thinking between Heidegger and Dōgen\n\nAuthor: Nico Jenkins\nEarth, Milky Way: punctum books, 2019\nhttps://doi.org/10.21983/P3.0239.1.00"
+  }
+]
