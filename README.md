@@ -4,21 +4,45 @@ This website is a catalogue of publications from the open access publishers in t
 
 All bibliographic metadata is retrieved from [Thoth](https://thoth.pub/), an open metadata management and dissemination system for open access books designed as part of the [COPIM project](https://www.copim.ac.uk/). Thoth has a range of open APIs for metadata retrieval and all metadata is licensed as [Creative Commons Zero (CC0)](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
-## Quarto and Jupyter Notebook
+## installation
 
-The main publishing workflow uses Quarto to render the output of Jupyter Notebook files. Run the .ipynb files in JupyterLab or Visual Studio Code or any other Jupyter environment and then run:
+### clone repository
 
-`quarto render`
+To clone this repository from GitHub, ensure that Git is installed on your local machine either as a command line interface (https://git-scm.com/) or through GitHub Desktop (https://desktop.github.com/).
 
-for Quarto to render the output into an output directory, in this case, ./docs. 
+Use either the CLI or GitHub Desktop to clone the repository into your preferred installation directory.
 
-GitHub Pages then serves the HTML files in the ./docs directory as a website. 
+If using CLI, navigate in the terminal to your preferred installation directory and run:
 
-## Docker Compose
+`git clone https://github.com/SimonXIX/scholarled_catalogue.git`
 
-This repository also contains Docker Compose and Dockerfiles for running the various applications in Docker containers.
+### install prerequisites (without Docker)
 
-Run `docker-compose up -d --build` to start the containers and `docker-compose down` to stop the containers.
+To install all prerequisites for running this repository on your local machine, please follow the instructions below. 
+
+First, install Python following the instructions at https://www.python.org/downloads/
+
+Once Python is installed, navigate to the quarto_docker directory in terminal and run:
+
+`pip install -r requirements.txt`
+
+This should install all the required Python modules for running the Quarto rendering process. 
+
+Next, install the Quarto CLI following the instructions at https://quarto.org/docs/get-started/
+
+Finally, install an environment for viewing and editing Jupyter Notebook files. This can be Visual Studio Code (https://code.visualstudio.com/), the open source fork VSCodium (https://vscodium.com/), or a dedicated Jupyter environment like JupyterLab (https://quarto.org/docs/get-started/hello/jupyter.html). 
+
+### install prerequisites (Docker)
+
+It's possible (though not required) to use Docker to run the environment for Jupyter Notebook running and Quarto rendering. 
+
+This process works in Linux but does not work in macOS due to a known issue. This involves Quarto not running properly in the Docker container in macOS due to the amd64 emulation of Docker Desktop for arm64 MacOS. See discussion at https://github.com/quarto-dev/quarto-cli/discussions/3308. This shouldn't occur in any other environment running Docker.
+
+To run in Docker, first install Docker Desktop following the instructions at https://docs.docker.com/desktop/.
+
+Once installed, navigate in the terminal to the directory for the cloned Git repository. 
+
+Run `docker-compose up -d --build` to start the containers. 
 
 The jupyterlab container runs a stand-alone version of JupyterLab on http://localhost:8888. This can be used to edit any Jupyter Notebook files in the repository. The JupyterLab instance runs with the password 'jupyterlab'.
 
@@ -28,4 +52,20 @@ The quarto container starts a Ubuntu 22.04 container, installs various things li
 
 `docker exec -it quarto quarto render` 
 
-There's a known issue with Quarto running in the Docker container in macOS due to the amd64 emulation of Docker Desktop for arm64 MacOS. See discussion at https://github.com/quarto-dev/quarto-cli/discussions/3308. This shouldn't occur in any other environment running Docker.
+When you're finished using the code, run `docker-compose down` to stop the containers.
+
+## running the rendering process
+
+The main publishing workflow uses Quarto to render the output of Jupyter Notebook files. 
+
+You can edit the .ipynb files in whatever Jupyter environment you installed above. After editing, ensure that you run the Notebook. 
+
+If you're running the code locally, you can then navigate to the repository directory in terminal and run: 
+
+`quarto render`
+
+for Quarto to render the output into an output directory, in this case, ./docs. 
+
+To preview the published publication, navigate to ./docs/index.html and open it in a web browser. You should see the entire published site. 
+
+When pushed to GitHub, GitHub Pages will then serve the HTML files in the ./docs directory as a website. 
