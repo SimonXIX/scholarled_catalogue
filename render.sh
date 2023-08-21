@@ -40,6 +40,12 @@ Run_Jupyter()
   docker exec -i $JUPYTER_CONTAINER jupyter nbconvert --to notebook --execute $JUPYTER_FILE
 }
 
+Reset_Quarto_date()
+{
+  current_date=$(date +%Y-%m-%d)
+  sed -E -i.bak 's/(date: ")[0-9]{4}-[0-9]{2}-[0-9]{2}(")/\1'"$current_date"'\2/' _quarto.yml
+}
+
 Render_Quarto()
 {
   quarto render
@@ -86,11 +92,13 @@ while getopts ":hlrz" flag; do
         exit;;
       r) # run whole process (Docker)
         Run_Jupyter
+        Reset_Quarto_date
         Render_Quarto_Docker
         Push_GitHub
         exit;;
       z) # run whole process (local)
         Run_Jupyter
+        Reset_Quarto_date
         Render_Quarto
         Push_GitHub
         exit;;
