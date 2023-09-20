@@ -4,12 +4,12 @@ services:
     build: ./jupyter_docker
     container_name: jupyterlab
     ports:
-      - "8888:8888"
+      - "8889:8889"
     volumes:
       - ./jupyter_data:/opt/app/data
       - ./jupyter_docker/jupyter_notebook_config.py:/root/.jupyter/jupyter_notebook_config.py
       - ./:/notebooks
-    entrypoint: sh -c 'jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --notebook-dir=/opt/app/data --allow-root'
+    entrypoint: sh -c 'jupyter lab --ip=0.0.0.0 --port=8889 --no-browser --notebook-dir=/opt/app/data --allow-root'
     
   quarto:
     build: ./quarto_docker
