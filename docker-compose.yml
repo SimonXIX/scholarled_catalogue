@@ -3,6 +3,7 @@ services:
   jupyterlab:
     build: ./jupyter_docker
     container_name: jupyterlab
+    restart: always
     ports:
       - "8889:8889"
     volumes:
@@ -15,6 +16,7 @@ services:
     build: ./quarto_docker
     platform: linux/amd64
     container_name: quarto
+    restart: always
     volumes:
       - .:/input
     stdin_open: true  # docker run -i
