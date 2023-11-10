@@ -62,7 +62,7 @@ comments:
 
 format:
   html:
-    theme: minty
+    theme: cosmo
     number-sections: false
     smooth-scroll: true
     fontcolor: "#111"
