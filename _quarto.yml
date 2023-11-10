@@ -18,6 +18,42 @@ book:
   repo-url: https://github.com/SimonXIX/scholarled_catalogue
   repo-actions: [edit]
   downloads: [pdf]
+  favicon: ./images/favicon.ico
+  search:
+    location: sidebar
+    type: textbox
+  navbar:
+    title: false
+    background: '#FBFBFB'
+    collapse: true
+    logo: "https://scholarled.org/images/logo.png"
+    logo-alt: "ScholarLed logo"
+    logo-href: "https://scholarled.org/"
+    left:
+      - text: "HOME"
+        href: "https://scholarled.org/"
+      - text: "MEMBERS"
+        href: "https://scholarled.org/#members"
+      - text: "CONSTITUTION"
+        href: "https://scholarled.org/constitution.html"
+      - text: "JOIN"
+        href: "https://scholarled.org/join.html"
+      - text: "SALON"
+        href: "https://scholarled.org/salon.html"
+      - text: "OUR BOOKS"
+        file: index.qmd
+      - text: "BLOG"
+        href: "https://blog.scholarled.org/"
+    right:
+      - icon: envelope-fill
+        href: 'mailto:info@scholarled.org'
+        aria-label: Email
+      - icon: facebook
+        href: https://www.facebook.com/ScholarLed/
+        aria-label: Facebook
+      - icon: twitter
+        href: http://www.twitter.com/scholarled
+        aria-label: Twitter
 
 comments:
   hypothesis: true
@@ -26,7 +62,11 @@ comments:
 
 format:
   html:
-    theme: minty
+    #theme: minty
     number-sections: false
+    smooth-scroll: true
+    theme: cosmo
+    fontcolor: "#111"
+    linkcolor: "#23B14B"
   pdf:
     documentclass: scrreprt
