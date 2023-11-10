@@ -24,7 +24,6 @@ book:
     type: textbox
   navbar:
     title: false
-    background: '#FBFBFB'
     collapse: true
     logo: "https://scholarled.org/images/logo.png"
     logo-alt: "ScholarLed logo"
@@ -62,10 +61,10 @@ comments:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      - cosmo
+      - custom.scss
     number-sections: false
     smooth-scroll: true
-    fontcolor: "#111"
-    linkcolor: "#23B14B"
   pdf:
     documentclass: scrreprt
