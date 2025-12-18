@@ -5,7 +5,7 @@ project:
 book:
   title: "ScholarLed catalogue"
   author: "Simon Bowie"
-  date: "2025-12-16"
+  date: "2025-12-17"
   chapters:
     - index.qmd
     - all_press.nbconvert.ipynb
