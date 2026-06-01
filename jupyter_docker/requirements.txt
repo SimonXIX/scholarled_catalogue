@@ -9,4 +9,4 @@ obj2html
 streamlit
 pillow
 qrcode
-thothlibrary==0.16.0
+thothlibrary==1.1.2
