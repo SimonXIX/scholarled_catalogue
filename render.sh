@@ -2,7 +2,7 @@
 # @name: render.sh
 # @creation_date: 2023-01-18
 # @license: The MIT License <https://opensource.org/licenses/MIT>
-# @author: Simon Bowie <ad7588@coventry.ac.uk>
+# @author: Simon Bowie <simonxix@simonxix.com>
 # @purpose: Runs Jupyter Notebook and renders in Quarto
 # @acknowledgements:
 # https://www.redhat.com/sysadmin/arguments-options-bash-scripts
@@ -12,7 +12,7 @@
 ############################################################
 License()
 {
-  echo 'Copyright 2023 Simon Bowie <ad7588@coventry.ac.uk>'
+  echo 'Copyright 2023–2026 Simon Bowie <simonxix@simonxix.com>'
   echo
   echo 'Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:'
   echo
